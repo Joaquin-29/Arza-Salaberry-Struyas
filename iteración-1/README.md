@@ -92,9 +92,7 @@ Personal que gestiona los gerentes y los restaurantes registrados.
 - Moderar y administrar comentarios y puntuaciones de restaurantes.
 - Análisis y estudio de competidores.
 
-### Competidores
-
-#### Estudio de competidores
+### Estudio de competidores
 #### Meitre
 Es una plataforma de pedidos y reservas de restaurantes que buscan mayor control sobre sus reservas y la experiencia del cliente. 
 
