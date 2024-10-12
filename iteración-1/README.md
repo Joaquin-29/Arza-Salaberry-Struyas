@@ -97,7 +97,39 @@ Personal que gestiona los gerentes y los restaurantes registrados.
 
 ### Competidores
 
----
+#### Estudio de competidores ####
+#### Meitre ####
+Es una plataforma de pedidos y reservas de restaurantes que buscan mayor control sobre sus reservas y la experiencia del cliente. 
+
+“La plataforma de la compañía aprovecha la tecnología para reservar tablas basadas en las tendencias de la demanda, rotar tablas de manera eficiente, introducir técnicas de precios y organizar eventos, lo que permite a los clientes eliminar no-shows, reducir las tasas de cancelación y asignar la demanda de manera eficiente.”
+
+A partir de las funcionalidades que detallan en su página web, se nos ocurre que podríamos incluir algunas de ellas que creemos tienen sentido en nuestra aplicación. 
+
+- Alertas por Whatsapp y SMS automáticas.
+- Confirmaciones por email y evaluaciones.
+- Prevención de no-show (clientes que no asisten sin cancelar) con tarjeta de crédito.
+- Lista de espera automática para sustituir cancelaciones.
+- Rastreador de redes sociales.
+
+#### TheFork ###
+TheFork es una plataforma líder en reservas de restaurantes en línea, que conecta a los usuarios con más de 55,000 restaurantes en Europa y Australia. 
+Los usuarios pueden hacer reservas en tiempo real, con confirmaciones instantáneas las 24 horas del día, y acceder a ofertas especiales. Además, TheFork ofrece millones de reseñas verificadas, ayudando a los comensales a elegir los mejores restaurantes basándose en opiniones confiables.
+
+De las funcionalidades que ofrecen, tomamos como más adaptables a nuestro negocio las siguientes:
+- Posibilidad de agregar promociones a los restaurantes.
+- Información sobre el precio promedio de una comida en ese restaurante.
+- Menú del restaurante.
+
+#### OpenTable ####
+“OpenTable es una aplicación de reserva de restaurantes que proporciona una solución de servicio completa para cualquier restaurante. Trae un fuerte motor de marketing y herramientas de gestión de invitados que puede utilizar para comprender más a los clientes y proporcionar experiencias de clase alta a los clientes.“
+
+“OpenTable también es un libro de registro de reservas electrónico que tiene funciones de pantalla táctil para simplificar el trabajo para sus gerentes.“
+
+- OpenTable ofrece un sistema de fidelización con puntos para obtener recompensas.
+- Opciones para reservas de eventos especiales.
+
+En resumen, el análisis de Meitre, TheFork y OpenTable nos muestra que cada plataforma ofrece características únicas para optimizar la experiencia de reservas en restaurantes. Meitre se centra en la eficiencia de reservas y la reducción de no-shows, mientras que TheFork proporciona acceso a reseñas verificadas y promociones para atraer a los comensales. Por último, OpenTable se destaca por su motor de marketing y un sistema de fidelización que recompensa a los usuarios. Integrar las mejores funcionalidades de estas plataformas en nuestra aplicación nos permitirá crear una solución competitiva y adaptada a las necesidades del mercado.
+
 
 ## Definición del problema/solución
 
