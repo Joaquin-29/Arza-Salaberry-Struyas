@@ -2,12 +2,17 @@
 
 - [Gestión de la iteración](#gestión-de-la-iteración)
   - [Definición del marco de trabajo](#definición-del-marco-de-trabajo)
-  - [Planificación de la iteración](#planificación-de-la-iteración)
+- [Planificación de la iteración](#planificación-de-la-iteración)
   - [Seguimiento de la iteración](#seguimiento-de-la-iteración)
-  - [Inspección y adaptación del proceso](#inspección-y-adaptación-del-proceso)
 - [Identificar y definir el problema a resolver](#identificar-y-definir-el-problema-a-resolver)
   - [Identificación del problema a resolver](#identificación-del-problema-a-resolver)
   - [Definición del problema/solución](#definición-del-problema/solución)
+- [Product Backlog](#product-backlog)
+  - [Epicas](#epicas)
+  - [Definition of Ready](#definition-of-ready-dor)
+  - [Definition of Done](#definition-of-done-dod)
+  - [Historias de usuario](#historias-de-usuario)
+  - [Story map](#story-map)
 
 # Gestión de la iteración
 
