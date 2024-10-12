@@ -58,7 +58,17 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 - Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
 - Seguimiento visual de la iteración con burndown y/o burnup charts.
 
+### Seguimiento de horas ###
+
+- Equipo - 2 hs - Historias de usuario y sprint backlog
+- 
+
 ## Inspección y adaptación del proceso
+
+### Artefactos principales
+
+- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
+- Planificación y seguimiento de las acciones de mejora.
 
 ### Sprint retrospective ###
 
@@ -66,10 +76,9 @@ Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, util
 
 ![Restrospective](https://github.com/Joaquin-29/Arza-Salaberry-Struyas/blob/Iteracion-1/iteraci%C3%B3n-1/imagenes/retrospective.png))
 
-### Artefactos principales
+### Acciones de mejora ###
 
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
+[falta]
 
 # Identificar y definir el problema a resolver
 
