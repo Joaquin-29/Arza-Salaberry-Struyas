@@ -64,7 +64,7 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, utilizamos un template de metroretro.com para guiarnos. La guía incluye preguntas sobre cuál es el objetivo, en qué mejorar y qué nos esta deteniendo.
 
-![Restrospective](https://github.com/Joaquin-29/Arza-Salaberry-Struyas/blob/Iteracion-1/iteraci%C3%B3n-1/imagenes/retrospective.png))
+![Restrospective](./imagenes/retrospective.png)
 
 ### Artefactos principales
 
