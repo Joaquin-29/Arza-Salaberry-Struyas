@@ -19,7 +19,9 @@
 	- Facilita las ceremonias SCRUM, elimina obstáculos y asegura que se respeten las buenas prácticas del marco.
 - Development Team: Joaquín Struyas
 	- Encargado de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
-**Eventos SCRUM**
+
+
+** Eventos SCRUM **
 - Sprint Planning: Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias.
 - Daily Scrum: Se llevaron a cabo principalmente de manera presencial en la facultad. Sin embargo, al ser un sprint relativamente corto, no fue necesario realizar daily meetings todos los días, y en algunos casos se implementaron mediante breves llamadas a través de Discord.
 - Sprint Review: Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
@@ -61,7 +63,10 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 ### Seguimiento de horas ###
 
 - Equipo - 2 hs - Historias de usuario y sprint backlog
-- 
+- Arza - 1 h - Estudio de competidores
+- Arza y Struyas - 30 min - Story map
+- Salaberry - 1 h - Epicas
+- Equipo - 15 min - Sprint retrospective 
 
 ## Inspección y adaptación del proceso
 
@@ -78,7 +83,8 @@ Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, util
 
 ### Acciones de mejora ###
 
-[falta]
+- Decidir si agregar historias de usuario a partir del estudio de competidores.
+
 
 # Identificar y definir el problema a resolver
 
