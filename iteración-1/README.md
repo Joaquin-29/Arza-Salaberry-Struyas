@@ -32,7 +32,7 @@
 - Políticas de trabajo del equipo:
   - Definition of Done.
   - Definition of Ready.
-
+  
 ## Planificación de la iteración
 
 _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
@@ -72,7 +72,7 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ### Sprint retrospective ###
 
-Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, utilizamos un template de metroretro.com para guiarnos. La guía incluye preguntas sobre cuál es el objetivo, en qué mejorar y qué nos esta deteniendo.
+Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, utilizamos un template de metroretro.io para guiarnos. La guía incluye preguntas sobre cuál es el objetivo, en qué mejorar y qué nos esta deteniendo.
 
 ![Restrospective](./imagenes/retrospective.png)
 
