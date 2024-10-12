@@ -155,7 +155,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 
 ## Historias de usuario
 
-### H1)
+### H1) Prioridad Alta
 - Como: Usuario
 - Quiero: Registrar una cuenta e iniciar sesión con nombre de usuario y contraseña o con google
 - Para: Acceder a la aplicación, guardar mis reservas y promociones. 
@@ -169,7 +169,8 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Cuando** el usuario ingrese su nombre de usuario y contraseña
 - **Entonces** el usuario debería poder acceder a la aplicación
 
-### H2) 
+### H2)
+Prioridad Media
 - Como: Usuario
 - Quiero: Poder recuperar mi contraseña
 - Para: Poder acceder a mi cuenta si me olvido de la contraseña.
@@ -180,6 +181,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería enviar un correo electrónico para restablecer la contraseña.
 
 ### H3)
+Prioridad Alta
 - Como: Usuario
 - Quiero: Cerrar sesión 
 - Para: Que otros usuarios no accedan a mi información
@@ -190,6 +192,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería cerrar la sesión y redirigir al usuario a la página de inicio.
 
 ### H4)
+Prioridad Baja
 - Como: Usuario
 - Quiero: Poder modificar la información de mi cuenta
 - Para: Poder actualizar mi información si esta cambia.
@@ -200,6 +203,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** los cambios deberían ser guardados correctamente.
 
 ### H5)
+Prioridad Baja
 - Como: Usuario
 - Quiero: Seleccionar un avatar
 - Para: Que la experiencia sea más personalizada?
@@ -210,6 +214,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el avatar debería ser visible en su perfil.
 
 ### H6)
+Prioridad Media
 - Como: Usuario
 - Quiero: Guardar mis restaurantes favoritos por zona
 - Para: Seleccionar una zona y ver a dónde puedo ir
@@ -220,6 +225,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el restaurante debería guardarse en su lista de favoritos.
 
 ### H7)
+Prioridad Baja
 - Como: Usuario
 - Quiero: Configurar notificaciones de promociones en restaurantes favoritos
 - Para: Enterarme de las promociones.
@@ -230,6 +236,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el usuario debería recibir alertas cuando haya promociones en esos restaurantes.
 
 ### H8)
+Prioridad Media
 - Como: Usuario
 - Quiero: Configurar notificaciones de reservas
 - Para: Obtener la información de mis reservas
@@ -240,6 +247,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería notificar al usuario sobre el estado de sus reservas.
 
 ### H9)
+Prioridad Media
 - Como: Usuario 
 - Quiero: Configurar notificaciones basadas en historial de reservas y valoraciones de otros usuarios
 - Para: Encontrar nuevos restaurantes que sean similares a mis favoritos y que tengan buenas valoraciones.
@@ -250,6 +258,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería enviar sugerencias personalizadas de restaurantes.
 
 ### H10)
+Prioridad Alta
 - Como: Usuario
 - Quiero: Tener un perfil con nombre de usuario, avatar, restaurantes favoritos, recomendaciones realizadas de restaurantes, historial de visitas a restaurantes.
 - Para: Poder ver toda mi información en un solo lugar.
@@ -260,6 +269,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el perfil debería mostrar el nombre de usuario, avatar, restaurantes favoritos, recomendaciones y historial de visitas.
 
 ### H11)
+Prioridad Alta
 - Como: Usuario
 - Quiero: Poder hacer una reserva en un restaurante o bar
 - Para: Tener una mesa libre asegurada
@@ -270,6 +280,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería confirmar la reserva y notificar al usuario.
 
 ### H12)
+Prioridad Alta
 - Como: Usuario
 - Quiero: Poder cancelar una reserva previamente hecha
 - Para: Ceder la mesa a otro cliente
@@ -280,6 +291,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería liberar la mesa y notificar al usuario.
 
 ### H13)
+Prioridad Media
 - Como: Usuario
 - Quiero: Poder ver el estatus de mi reserva
 - Para: Asegurarme de que haya sido confirmada
@@ -290,6 +302,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería mostrar si la reserva ha sido confirmada, pendiente o cancelada.
 
 ### H14)
+Prioridad Baja
 - Como: Usuario
 - Quiero: Poder ver las calificaciones y comentarios de un restaurante
 - Para: Poder ver si el restaurante es un buen lugar para visitar
@@ -300,6 +313,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** debería poder ver la puntuación y los comentarios de otros usuarios.
 
 ### H15)
+Prioridad Alta
 - Como: Usuario
 - Quiero: Visualizar los restaurantes disponibles en mi zona
 - Para: Ver las opciones de restaurantes cercanas a las que puedo ir
@@ -310,6 +324,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería mostrar una lista de restaurantes cercanos.
 
 ### H16)
+Prioridad Baja
 - Como: Usuario
 - Quiero: Poder recibir notificaciones de confirmación sobre mi reserva 
 - Para: Tener una forma más cómoda de ver el estado de mi reserva
@@ -320,6 +335,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería enviar una notificación al usuario con el estado actualizado de la reserva.
 
 ### H17)
+Prioridad Alta
 - Como: Usuario
 - Quiero: Poder seleccionar la cantidad de comensales
 - Para: Que en la mesa que reserve haya lugar para todos.
@@ -330,6 +346,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería permitir la reserva para esa cantidad de personas.
 
 ### H18)
+Prioridad Media
 - Como: Usuario
 - Quiero: Poder filtrar por tipo de comida
 - Para: Encontrar restaurantes que sirvan comida que me guste.
@@ -340,6 +357,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces**
 
 ### H19)
+Prioridad Baja
 - Como: Usuario
 - Quiero: Que un restaurante me muestre si tiene descuentos con tarjetas
 - Para: Saber qué beneficios puedo aprovechar.
@@ -350,6 +368,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería mostrar los detalles de los descuentos disponibles.
 
 ### H20)
+Prioridad Alta
 - Como: Gerente.
 - Quiero: Poder confirmar reserva para el restaurante que gerencio.
 - Para: Gestionar las mesas disponibles en horarios y días definidos. Optimizando rendimiento y predicción.
@@ -360,6 +379,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería notificar al cliente y actualizar la disponibilidad de mesas.
 
 ### H21)
+Prioridad Alta
 - Como: Gerente.
 - Quiero: Poder modificar horarios disponibles y tipos de comida del restaurante que gerencio.
 - Para: Informar correctamente a los clientes acerca de los servicios ofrecidos, lugares disponibles para ser reservados y nuestras horas de cierre/apertura.
@@ -370,6 +390,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería reflejar los cambios y notificar a los clientes si es necesario.
 
 ### H22)
+Prioridad Baja
 - Como: Gerente.
 - Quiero: Poder apelar a comentarios y puntuaciones que recibe mi restaurante.
 - Para: Identificar mejoras posibles y obtener feedback directo de los clientes.
@@ -380,6 +401,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería permitirle enviar una solicitud de revisión.
 
 ### H23)
+Prioridad Media
 - Como: Gerente
 - Quiero: Recibir notificaciones de reservas solicitadas para mi restaurante.
 - Para: Poder confirmar/denegar las mismas a mis clientes cuanto antes.
@@ -390,6 +412,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el gerente debería recibir una notificación con los detalles de la reserva solicitada.
 
 ### H24)
+Prioridad Alta
 - Como: Administrador
 - Quiero: Dar de alta un restaurante
 - Para: Que pueda aparecer en la aplicación
@@ -400,6 +423,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el restaurante debería guardarse en la base de datos y estar disponible en la lista de restaurantes de la aplicación.
 
 ### H25)
+Prioridad Alta
 - -Como: Administrador
 - Quiero: Poder dar de alta y modificar gerentes por restaurante 
 - Para: Que gestione el restaurante asignado
@@ -410,6 +434,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el gerente debería poder ser dado de alta o modificado correctamente y asignado a un restaurante específico.
 
 ### H26)
+Prioridad Alta
 - Como: Administrador
 - Quiero: Indicar los restaurantes disponibles para reservar
 - Para: Que los clientes sepan en cuales pueden realizar reservas
@@ -420,6 +445,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** los clientes deberían poder ver ese restaurante en la lista de restaurantes disponibles para reservar.
 
 ### H27)
+Prioridad Baja
 - Como: Administrador
 - Quiero: Administrar comentarios y puntuaciones de restaurantes
 - Para: Editar comentarios/modificar puntuaciones de un restaurante
@@ -430,6 +456,7 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Entonces** el sistema debería reflejar los cambios en la interfaz de los usuarios, actualizando las puntuaciones y comentarios.
 
 ### H28)
+Prioridad Media
 - Como: Gerente.
 - Quiero: Poder agregar promociones en el restaurante que gerencio.
 - Para: Recibir más clientes o premiar clientes recurrentes.
