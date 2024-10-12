@@ -26,29 +26,24 @@
 - Sprint Review: Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
 - Sprint Retrospective: Esta ceremonia se llevó a cabo para discutir mejoras en los procesos y reflexionar sobre lo que funcionó y lo que puede optimizarse en los siguientes sprints.
   
-## Planificación de la iteración
-
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
+# Planificación de la iteración
 
 ## Seguimiento de la iteración
 
-### Seguimiento de horas ###
-
+### Seguimiento de horas
 - Equipo - 2 hs - Historias de usuario y sprint backlog
 - Arza - 1 h - Estudio de competidores
 - Arza y Struyas - 30 min - Story map
 - Salaberry - 1 h - Epicas
 - Equipo - 15 min - Sprint retrospective 
 
-## Inspección y adaptación del proceso
+### Sprint retrospective
 
-### Sprint retrospective ###
-
-Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, utilizamos un template de metroretro.io para guiarnos. La guía incluye preguntas sobre cuál es el objetivo, en qué mejorar y qué nos esta deteniendo.
+Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, utilizamos la extensión retorspective en azure devops.
 
 ![Restrospective](./imagenes/retrospective.png)
 
-### Acciones de mejora ###
+### Acciones de mejora
 
 - Decidir si agregar historias de usuario a partir del estudio de competidores.
 
@@ -65,8 +60,6 @@ Valor: Comodidad para encontrar, reservar y evaluar restaurantes desde una sola 
 Valor: Mejora en la gestión de reservas y visibilidad del restaurante mediante las reseñas de clientes.
 -Administradores del sistema: Supervisan la plataforma, verifican las reseñas y resuelven incidencias.
 Valor: Control de calidad y mejora continua del servicio.
-
-## Artefactos principales
 
 ### Interesados (Stakeholders)
 
