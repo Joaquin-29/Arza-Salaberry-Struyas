@@ -437,3 +437,7 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 - **Dado que** un administrador ha accedido a la sección de administración de comentarios y puntuaciones
 - **Cuando** el administrador decida editar o eliminar un comentario o modificar una puntuación
 - **Entonces** el sistema debería reflejar los cambios en la interfaz de los usuarios, actualizando las puntuaciones y comentarios.
+
+## Story map ##
+
+![Story Map](https://github.com/Joaquin-29/Arza-Salaberry-Struyas/blob/Iteracion-1/iteraci%C3%B3n-1/imagenes/storymap.png)
