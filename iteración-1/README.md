@@ -83,6 +83,16 @@ Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, util
 # Identificar y definir el problema a resolver
 
 ## Identificación del problema a resolver
+**Problema del negocio**
+El proyecto busca resolver la falta de una plataforma eficiente para reservar y evaluar restaurantes, especialmente para personas que prefieren gestionar todo desde una aplicación móvil. Actualmente, no hay soluciones que integren de manera óptima la gestión de reservas, evaluaciones de usuarios y una comunicación directa con los restaurantes.
+
+**Usuarios y escenarios principales**
+- Clientes: Usuarios que buscan restaurantes, realizan reservas y dejan reseñas.
+Valor: Comodidad para encontrar, reservar y evaluar restaurantes desde una sola aplicación.
+-Gerentes de restaurantes: Administran reservas, reciben feedback y gestionan la reputación del restaurante.
+Valor: Mejora en la gestión de reservas y visibilidad del restaurante mediante las reseñas de clientes.
+-Administradores del sistema: Supervisan la plataforma, verifican las reseñas y resuelven incidencias.
+Valor: Control de calidad y mejora continua del servicio.
 
 ## Artefactos principales
 
