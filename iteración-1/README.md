@@ -179,6 +179,9 @@ En resumen, el análisis de Meitre, TheFork y OpenTable nos muestra que cada pla
 
 # Product Backlog
 
+Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obligatorio%20ISA1)
+
+
 # Epicas
 - Gestión de cuentas de usuario: facilitar acceso a la plataforma a los clientes mediante creación y gestión de sus cuentas.
 - Gestión de reservas: los clientes deben poder realizar y gestionar sus reservas de manera eficiente.
