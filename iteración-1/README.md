@@ -20,8 +20,7 @@
 - Development Team: Joaquín Struyas
 	- Encargado de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
 
-
-** Eventos SCRUM **
+**Eventos SCRUM**
 - Sprint Planning: Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias.
 - Daily Scrum: Se llevaron a cabo principalmente de manera presencial en la facultad. Sin embargo, al ser un sprint relativamente corto, no fue necesario realizar daily meetings todos los días, y en algunos casos se implementaron mediante breves llamadas a través de Discord.
 - Sprint Review: Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
@@ -31,26 +30,7 @@
 
 _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
 
-### Artefactos principales
-
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-
 ## Seguimiento de la iteración
-
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
-
-### Artefactos principales
-
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
-  - ¿Qué planificamos hacer?
-  - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
 
 ### Seguimiento de horas ###
 
@@ -62,11 +42,6 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ## Inspección y adaptación del proceso
 
-### Artefactos principales
-
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
-
 ### Sprint retrospective ###
 
 Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, utilizamos un template de metroretro.io para guiarnos. La guía incluye preguntas sobre cuál es el objetivo, en qué mejorar y qué nos esta deteniendo.
@@ -76,7 +51,6 @@ Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, util
 ### Acciones de mejora ###
 
 - Decidir si agregar historias de usuario a partir del estudio de competidores.
-
 
 # Identificar y definir el problema a resolver
 
