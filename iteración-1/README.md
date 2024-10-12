@@ -471,6 +471,17 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 - **Cuando** el administrador decida editar o eliminar un comentario o modificar una puntuación
 - **Entonces** el sistema debería reflejar los cambios en la interfaz de los usuarios, actualizando las puntuaciones y comentarios.
 
+### H28)
+- Como: Gerente.
+- Quiero: Poder agregar promociones en el restaurante que gerencio.
+- Para: Recibir más clientes o premiar clientes recurrentes.
+
+#### Criterios de Aceptación:
+- **Dado que** un gerente ha creado una promocion
+- **Cuando** el gerente confirme la promocion
+- **Entonces** el sistema debería notificar a los clientes y actualizar las promociones del restaurante.
+
+
 ## Story map ##
 
 ![Story Map](./imagenes/storymap.png)
