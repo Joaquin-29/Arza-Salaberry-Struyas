@@ -430,4 +430,4 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 
 ## Story map ##
 
-![Story Map](../imagenes/storymap.png)
+![Story Map](https://github.com/Joaquin-29/Arza-Salaberry-Struyas/blob/Iteracion-1/iteraci%C3%B3n-1/imagenes/storymap.png)
