@@ -33,8 +33,6 @@
   
 # Planificación de la iteración
 
-## Seguimiento de la iteración
-
 ### Seguimiento de horas
 - Equipo - 2 hs - Historias de usuario y sprint backlog
 - Arza - 1 h - Estudio de competidores
@@ -52,19 +50,17 @@ Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, util
 
 - Decidir si agregar historias de usuario a partir del estudio de competidores.
 
-# Identificar y definir el problema a resolver
-
 ## Identificación del problema a resolver
 **Problema del negocio**
 El proyecto busca resolver la falta de una plataforma eficiente para reservar y evaluar restaurantes, especialmente para personas que prefieren gestionar todo desde una aplicación móvil. Actualmente, no hay soluciones que integren de manera óptima la gestión de reservas, evaluaciones de usuarios y una comunicación directa con los restaurantes.
 
 **Usuarios y escenarios principales**
 - Clientes: Usuarios que buscan restaurantes, realizan reservas y dejan reseñas.
-Valor: Comodidad para encontrar, reservar y evaluar restaurantes desde una sola aplicación.
--Gerentes de restaurantes: Administran reservas, reciben feedback y gestionan la reputación del restaurante.
-Valor: Mejora en la gestión de reservas y visibilidad del restaurante mediante las reseñas de clientes.
--Administradores del sistema: Supervisan la plataforma, verifican las reseñas y resuelven incidencias.
-Valor: Control de calidad y mejora continua del servicio.
+  Valor: Comodidad para encontrar, reservar y evaluar restaurantes desde una sola aplicación.
+- Gerentes de restaurantes: Administran reservas, reciben feedback y gestionan la reputación del restaurante.
+  Valor: Mejora en la gestión de reservas y visibilidad del restaurante mediante las reseñas de clientes.
+- Administradores del sistema: Supervisan la plataforma, verifican las reseñas y resuelven incidencias.
+  Valor: Control de calidad y mejora continua del servicio.
 
 ### Interesados (Stakeholders)
 
@@ -98,8 +94,8 @@ Personal que gestiona los gerentes y los restaurantes registrados.
 
 ### Competidores
 
-#### Estudio de competidores ####
-#### Meitre ####
+#### Estudio de competidores
+#### Meitre
 Es una plataforma de pedidos y reservas de restaurantes que buscan mayor control sobre sus reservas y la experiencia del cliente. 
 
 “La plataforma de la compañía aprovecha la tecnología para reservar tablas basadas en las tendencias de la demanda, rotar tablas de manera eficiente, introducir técnicas de precios y organizar eventos, lo que permite a los clientes eliminar no-shows, reducir las tasas de cancelación y asignar la demanda de manera eficiente.”
@@ -112,7 +108,7 @@ A partir de las funcionalidades que detallan en su página web, se nos ocurre qu
 - Lista de espera automática para sustituir cancelaciones.
 - Rastreador de redes sociales.
 
-#### TheFork ###
+#### TheFork
 TheFork es una plataforma líder en reservas de restaurantes en línea, que conecta a los usuarios con más de 55,000 restaurantes en Europa y Australia. 
 Los usuarios pueden hacer reservas en tiempo real, con confirmaciones instantáneas las 24 horas del día, y acceder a ofertas especiales. Además, TheFork ofrece millones de reseñas verificadas, ayudando a los comensales a elegir los mejores restaurantes basándose en opiniones confiables.
 
@@ -121,7 +117,7 @@ De las funcionalidades que ofrecen, tomamos como más adaptables a nuestro negoc
 - Información sobre el precio promedio de una comida en ese restaurante.
 - Menú del restaurante.
 
-#### OpenTable ####
+#### OpenTable
 “OpenTable es una aplicación de reserva de restaurantes que proporciona una solución de servicio completa para cualquier restaurante. Trae un fuerte motor de marketing y herramientas de gestión de invitados que puede utilizar para comprender más a los clientes y proporcionar experiencias de clase alta a los clientes.“
 
 “OpenTable también es un libro de registro de reservas electrónico que tiene funciones de pantalla táctil para simplificar el trabajo para sus gerentes.“
