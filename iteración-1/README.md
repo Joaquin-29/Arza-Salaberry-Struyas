@@ -459,4 +459,4 @@ En resumen, el análisis de Meitre, TheFork y OpenTable nos muestra que cada pla
 
 ## Story map ##
 
-![Story Map](https://github.com/Joaquin-29/Arza-Salaberry-Struyas/blob/Iteracion-1/iteraci%C3%B3n-1/imagenes/storymap.png)
+![Story Map](./imagenes/storymap.png)
