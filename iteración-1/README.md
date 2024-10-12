@@ -144,6 +144,14 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 
 # Product Backlog
 
+# Epicas
+- Gestión de cuentas de usuario: facilitar acceso a la plataforma a los clientes mediante creación y gestión de sus cuentas.
+- Gestión de reservas: los clientes deben poder realizar y gestionar sus reservas de manera eficiente.
+- Personalizar experiencia de usuario: los usuarios deberán disponer de funciones que mejoren su experiencia a través de la personalización de su entorno, como favoritos y notificaciones.
+- Gestión de restaurantes: los gerentes deben disponer de herramientas para gestionar la información y disponibilidad de los restaurantes bajo su control.
+- Gestión de comentarios y valoraciones: permitir a usuarios valorar y comentar sobre sus experiencias en los negocios, y a los gerentes responder y visualizar este feedback.
+- Integración de promociones y descuentos: se deben implementar con el objetivo de atraer clientes, facilitando su descubrimiento son filtros y notificaciones.
+
 ## Historias de usuario
 
 ### H1)
