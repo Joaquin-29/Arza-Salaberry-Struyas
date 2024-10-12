@@ -63,11 +63,41 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 
 _[Entendimiento claro del problema del negocio a resolver con la identificación de los usuarios y escenarios principales con su valor de negocio asociado. Existe a su vez evidencia que se analiza y compara aplicaciones similares existentes del mercado.]_
 
-### Artefactos principales
+## Artefactos principales
 
-- Identificación de interesados con sus perfiles asociados.
-- Lista de funcionalidades por cada interesado.
+### Interesados (Stakeholders)
+
+#### Clientes:
+Personas que usan la aplicación para buscar, reservar y evaluar restaurantes.
+
+**Necesidades:**
+- Poder registrarse e iniciar sesión.
+- Marcar restaurantes como favoritos.
+- Reservar mesas en restaurantes.
+- Configurar notificaciones de promociones y recomendaciones.
+- Visualizar las puntuaciones y comentarios de restaurantes.
+
+#### Gerentes:
+Encargados de gestionar restaurantes dentro de la aplicación.
+
+**Necesidades:**
+- Confirmar y gestionar reservas.
+- Modificar detalles del restaurante (horarios, tipo de comida).
+- Gestionar promociones y recibir notificaciones sobre reservas solicitadas.
+- Apelar puntuaciones o comentarios recibidos.
+
+#### Administradores:
+Personal que gestiona los gerentes y los restaurantes registrados.
+
+**Necesidades:**
+- Dar de alta y modificar gerentes.
+- Dar de alta restaurantes.
+- Moderar y administrar comentarios y puntuaciones de restaurantes.
 - Análisis y estudio de competidores.
+
+## Competidores
+
+---
 
 ## Definición del problema/solución
 
@@ -107,3 +137,5 @@ Gerente apela a review - Gerenciador
 Administrar comentarios y puntuaciones de restaurantes - Administrador
 Gerente recibe notificaciones - Gerenciador
 Promociones - Gerenciador
+
+
