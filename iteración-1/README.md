@@ -60,7 +60,12 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+### Sprint retrospective ###
+
+Al finalizar la iteración, nos reunimos para hacer la sprit retrospective, utilizamos un template de metroretro.com para guiarnos. La guía incluye preguntas sobre cuál es el objetivo, en qué mejorar y qué nos esta deteniendo.
+
+![Restrospective](Arza-Salaberry-Struyas\iteración-1\imagenes\retrospective.png)
+
 
 ### Artefactos principales
 
@@ -70,8 +75,6 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 # Identificar y definir el problema a resolver
 
 ## Identificación del problema a resolver
-
-_[Entendimiento claro del problema del negocio a resolver con la identificación de los usuarios y escenarios principales con su valor de negocio asociado. Existe a su vez evidencia que se analiza y compara aplicaciones similares existentes del mercado.]_
 
 ## Artefactos principales
 
@@ -142,8 +145,6 @@ En resumen, el análisis de Meitre, TheFork y OpenTable nos muestra que cada pla
 
 
 ## Definición del problema/solución
-
-_[Existe un Product Backlog definido con su jerarquía de épicas e historias de usuario con sus criterios de aceptación asociados. Existe una priorización de los prototipos principales que se buscarán idear, construir y validar como parte del ciclo de descubrimiento.]_
 
 ### Artefactos principales
 
