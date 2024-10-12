@@ -167,28 +167,33 @@ De las funcionalidades que ofrecen, tomamos como más adaptables a nuestro negoc
 
 En resumen, el análisis de Meitre, TheFork y OpenTable nos muestra que cada plataforma ofrece características únicas para optimizar la experiencia de reservas en restaurantes. Meitre se centra en la eficiencia de reservas y la reducción de no-shows, mientras que TheFork proporciona acceso a reseñas verificadas y promociones para atraer a los comensales. Por último, OpenTable se destaca por su motor de marketing y un sistema de fidelización que recompensa a los usuarios. Integrar las mejores funcionalidades de estas plataformas en nuestra aplicación nos permitirá crear una solución competitiva y adaptada a las necesidades del mercado.
 
-
-## Definición del problema/solución
-
-### Artefactos principales
-
-- Product backlog con épicas e historias de usuario para prototipar.
-- Historias de usuario cumpliendo el Definition of Ready con sus criterios de aceptación.
-- Propuesta de valor diferenciadora de la competencia.
-- Story map del roadmap inicial del proyecto.
-
 # Product Backlog
 
 Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obligatorio%20ISA1)
 
-
-# Epicas
+## Epicas
 - Gestión de cuentas de usuario: facilitar acceso a la plataforma a los clientes mediante creación y gestión de sus cuentas.
 - Gestión de reservas: los clientes deben poder realizar y gestionar sus reservas de manera eficiente.
 - Personalizar experiencia de usuario: los usuarios deberán disponer de funciones que mejoren su experiencia a través de la personalización de su entorno, como favoritos y notificaciones.
 - Gestión de restaurantes: los gerentes deben disponer de herramientas para gestionar la información y disponibilidad de los restaurantes bajo su control.
 - Gestión de comentarios y valoraciones: permitir a usuarios valorar y comentar sobre sus experiencias en los negocios, y a los gerentes responder y visualizar este feedback.
 - Integración de promociones y descuentos: se deben implementar con el objetivo de atraer clientes, facilitando su descubrimiento son filtros y notificaciones.
+
+## Definition of Ready (DoR)
+
+- La historia de usuario está claramente descrita y entendida por el equipo de diseño.
+- Los criterios de aceptación están definidos y son claros.
+- Las dependencias están identificadas y gestionadas.
+- Los requisitos no funcionales están especificados.
+- La historia de usuario está priorizada.
+
+## Definition of Done (DoD)
+
+- El diseño del prototipo cumple con los criterios de aceptación.
+- El prototipo ha sido revisado y aprobado por al menos un miembro del equipo.
+- El prototipo ha sido probado con usuarios y se han incorporado los comentarios.
+- El prototipo ha sido presentado al Product Owner y ha sido aceptado.
+- El prototipo está listo para ser utilizado en pruebas de usabilidad o para ser entregado al equipo de desarrollo.
 
 ## Historias de usuario
 
