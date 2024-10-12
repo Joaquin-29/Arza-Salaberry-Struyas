@@ -110,7 +110,7 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 - Propuesta de valor diferenciadora de la competencia.
 - Story map del roadmap inicial del proyecto.
 
-# Backlog
+# Product Backlog
 
 ## Login de usuario
 
