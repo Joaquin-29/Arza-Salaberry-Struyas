@@ -22,7 +22,9 @@ Para el desarrollo del proyecto se deberá utilizar el marco de trabajo SCRUM. E
 
 # Integrantes del equipo
 
-_[Enumerar los integrantes del equipo con sus números de estudiantes y rol dentro del proyecto.]_
+Magdalena Arza - 219822
+Martín Salaberry - 294238
+Joaquín Struyas - 292128
 
 # Iteraciones y esfuerzo
 
