@@ -156,7 +156,8 @@ Realizamos el backlog en Azure DevOps: [link](https://dev.azure.com/JS292128/Obl
 
 ## Historias de usuario
 
-### H1) Prioridad Alta - 2 story points
+### H1) 
+Prioridad Alta - 2 story points
 - Como: Usuario
 - Quiero: Registrar una cuenta e iniciar sesión con nombre de usuario y contraseña o con google
 - Para: Acceder a la aplicación, guardar mis reservas y promociones. 
