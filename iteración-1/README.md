@@ -79,3 +79,31 @@ _[Existe un Product Backlog definido con su jerarquía de épicas e historias de
 - Historias de usuario cumpliendo el Definition of Ready con sus criterios de aceptación.
 - Propuesta de valor diferenciadora de la competencia.
 - Story map del roadmap inicial del proyecto.
+
+# Backlog
+Login de usuario
+Logout de usuario
+Registrar restaurantes favoritos
+Editar usuario
+Configurar notificaciones de promociones y confirmaciones de reserva
+Solicitar reserva - Cliente
+Usuario con perfil de cliente
+Cancelación de reserva - Cliente
+Visualizar estatus de reserva - Cliente
+Avatar de usuario
+Visualización de puntuación de restaurante y comentarios - Cliente
+Configurar notificaciones de recomendaciones diarias - Cliente
+Visualizar restaurantes disponibles - Cliente
+Usuario con perfil de gerenciador
+Perfil de cliente - Cliente
+Recibir notificaciones - Cliente
+Administrador
+Alta restaurantes - Administrador
+Gerente confirma reservas
+Alta y modificación de gerenciadores - Administrador
+Gerente modifica restaurante - Gerenciador
+Restaurantes disponibles para reserva - Administrador
+Gerente apela a review - Gerenciador
+Administrar comentarios y puntuaciones de restaurantes - Administrador
+Gerente recibe notificaciones - Gerenciador
+Promociones - Gerenciador
