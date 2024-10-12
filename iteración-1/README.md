@@ -26,7 +26,7 @@
 	- Encargado de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
 
 **Eventos SCRUM**
-- Sprint Planning: Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias.
+- Sprint Planning: Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias y sus story points.
 - Daily Scrum: Se llevaron a cabo principalmente de manera presencial en la facultad. Sin embargo, al ser un sprint relativamente corto, no fue necesario realizar daily meetings todos los días, y en algunos casos se implementaron mediante breves llamadas a través de Discord.
 - Sprint Review: Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
 - Sprint Retrospective: Esta ceremonia se llevó a cabo para discutir mejoras en los procesos y reflexionar sobre lo que funcionó y lo que puede optimizarse en los siguientes sprints.
