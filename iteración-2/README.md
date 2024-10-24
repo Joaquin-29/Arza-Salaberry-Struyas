@@ -27,27 +27,84 @@ _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo
 
 _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
 
-### Artefactos principales
+### _Artefactos principales_
 
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
+### Sprint planning
+
+Se hizo una reunión en Discord para planificar la iteración 2. Se definieron las tareas a realizar en la iteración, cada integrante
+eligio una tarea por la cual comenzar. Se decidió que en esta iteración se realizarán aproximadamente la mitad de las historias de usuario
+medidas en puntos de historia, tomando en cuenta la prioridad de las mismas.
+![img.png](img.png)
+
+### Objetivos de la iteración
+
+El objetivo de la iteración 2 es avanzar en la construcción de la aplicación, implementando las historias de usuario priorizadas en la iteración anterior.
+Se espera que al final de la iteración el cliente pueda tener un prototipo funcional de la aplicación, con las funcionalidades principales implementadas.
+Iniciar sesión, registrar restaurantes y crear reservas.
+
+### Sprint backlog con historias de usuarios y tareas asociadas
+
+El sprint backlog para la iteración 2 es el siguiente:
+![img_1.png](img_1.png)
+
+Se definieron las tareas a realizar:
+![img_2.png](img_2.png)
+
+
+#### Planificación de acuerdo a la capacidad del equipo
+
+Trabajaremos con la modalidad impulsada por el compromiso, commitment-driven, como todavía no conocemos la velocidad del equipo.
+En esta iteración decidimos trabajar en 14 historias de usuario que suman 24 puntos de historia.
+
+#### Técnicas de priorización y estimación utilizadas
+
+Para priorizar las historias de usuario las clasificamos en 3 categorías:
+- Alta prioridad
+- Media prioridad
+- Baja prioridad
+
+En azure las historias con prioridad alta equivalen a un 3, las de media a un 2 y las de baja a un 1.
+
+![img_13.png](img_13.png)
+
+#### Uso de métricas relevantes para la planificación como la velocidad y productividad
+
+La velocidad del equipo que planificamos para esta iteración es de 24 puntos de historia.
+La velocidad real al final de la iteración fue de [TODO] puntos de historia.
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
-
 ### Artefactos principales
 
-- Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
+### Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
+  - ¿Qué logramos hacer?
   - ¿Qué planificamos hacer?
   - ¿Qué impedimentos tenemos?
-- Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
-- Seguimiento visual de la iteración con burndown y/o burnup charts.
+
+Utilizamos la herramienta de azure del tablero de la iteración 2 para llevar un seguimiento de las tareas realizadas por cada integrante del equipo.
+
+### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
+
+Arza
+- 22/10 : 1 hora
+- 24/10 : 3 horas
+
+Salaberry
+- 22/10 : 1 hora
+- 23/10 : 3 horas
+
+Struyas
+- 22/10 : 1 hora
+- 23/10 : 2 horas
+- 24/10 : 1 hora
+
+### Seguimiento visual de la iteración con burndown y/o burnup charts
+
+Faltando 3 días para finalizar la iteración, el burndown chart es el siguiente:
+![img_3.png](img_3.png)
+
+Al final de la iteración, el burndown chart es el siguiente:
+[TODO]
 
 ## Inspección y adaptación del proceso
 
@@ -66,7 +123,38 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 
 ### Artefactos principales
 
-- Prototipos interactivos para ser navegados.
+### Prototipos interactivos para ser navegados
+
+Construimos prototipos de la aplicación en la página de Figma.
+- [Prototipo de la aplicación](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=0-1&node-type=canvas&t=dNNhscARrB787mUV-0)
+
+[Prototipo de login](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=0-1)
+![img_4.png](img_4.png)
+
+[Prototipo de logout](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-2)
+![img_5.png](img_5.png)
+
+[Prototipo de editar usuario](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-3)
+![img_11.png](img_11.png)
+
+[Prototipo de perfil de usuario](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-4)
+![img_12.png](img_12.png)
+
+[Prototipo de crear restaurante](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-59)
+![img_6.png](img_6.png)
+
+[Prototipo de perfil cliente - favoritos - reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=67-725)
+![img_10.png](img_10.png)
+
+[Prototipo de perfil gerenciador](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=136-897)
+![img_8.png](img_8.png)
+
+[Prototipo de solicitar reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-22748)
+![img_7.png](img_7.png)
+
+[Prototipo de crear promociones](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=84-2492)
+![img_9.png](img_9.png)
+
 - Prototipos asociados como bocetos a las historias de usuario.
 
 ## Inspección y adaptación del producto
@@ -75,6 +163,7 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
 
 ### Artefactos principales
 
+[TODO]
 - Minutas de sprint review.
 - Evidencia de los usability testing con usuarios finales.
   - Descripción de las tareas propuestas a los usuarios finales.
