@@ -205,26 +205,26 @@ Validación con Usuarios: Se realizaron pruebas de usabilidad con un usuario obj
 Ajustes Finales: Varios de los comentarios de los usuarios coincidieron con funcionalidades que el equipo ya había planificado. Esto confirma que el equipo está alineado con las expectativas y necesidades del usuario.
 
 - Siguientes Pasos
-Sistema de Recompensas
-Implementar un sistema de puntos para premiar a usuarios frecuentes con descuentos y promociones. Evaluar una versión paga para beneficios adicionales.
+  - Sistema de Recompensas
+  Implementar un sistema de puntos para premiar a usuarios frecuentes con descuentos y promociones. Evaluar una versión paga para beneficios adicionales.
 
-Listas Personalizadas de Favoritos
-Permitir a los usuarios crear listas de favoritos con categorías personalizadas (ej. “Para citas”, “Para amigos”) para facilitar el acceso.
+  - Listas Personalizadas de Favoritos
+    - Permitir a los usuarios crear listas de favoritos con categorías personalizadas (ej. “Para citas”, “Para amigos”) para facilitar el acceso.
 
-Filtros de Búsqueda Avanzada
-Añadir filtros de búsqueda como “Abierto ahora”, “Al aire libre” y rango de precios, mejorando la precisión en la búsqueda de restaurantes.
+  - Filtros de Búsqueda Avanzada
+    -Añadir filtros de búsqueda como “Abierto ahora”, “Al aire libre” y rango de precios, mejorando la precisión en la búsqueda de restaurantes.
 
-Personalización de Avatares
-Expandir la selección de avatares y permitir la carga de imágenes desde redes sociales para una experiencia más personalizada.
+  - Personalización de Avatares
+    - Expandir la selección de avatares y permitir la carga de imágenes desde redes sociales para una experiencia más personalizada.
 
-Recuperación de Contraseña Mejorada
-Incorporar opciones de recuperación mediante SMS o correo electrónico, simplificando el proceso para los usuarios.
+  - Recuperación de Contraseña
+    - Incorporar opciones de recuperación mediante SMS o correo electrónico, simplificando el proceso para los usuarios.
 
-Clasificación de Notificaciones
-Organizar las notificaciones en categorías (ej. “Confirmaciones”, “Promociones”) para que el usuario pueda personalizar qué recibir.
+  - Clasificación de Notificaciones
+    - Organizar las notificaciones en categorías (ej. “Confirmaciones”, “Promociones”) para que el usuario pueda personalizar qué recibir.
 
-- Conclusiones 
-La iteración 2 fue exitosa en la creación y validación de prototipos en Figma que abordan las necesidades principales de los usuarios en las que seleccionamos para trabajar. Los ajustes realizados tras la recolección de feedback nos permitiran adaptar el producto a un diseño más accesible y funcional, logrando que la aplicación se perciba como amigable, atractiva y útil. Además, el hecho de que varias de las sugerencias de los usuarios coincidieran con funcionalidades ya planificadas es una señal positiva de que el equipo está alineado con las expectativas de los usuarios. Esta iteración ha establecido una buena base para avanzar en el desarrollo del producto en las próximas fases del proyecto.
+- Conclusiones
+  - La iteración 2 fue exitosa en la creación y validación de prototipos en Figma que abordan las necesidades principales de los usuarios en las que seleccionamos para trabajar. Los ajustes realizados tras la recolección de feedback nos permitiran adaptar el producto a un diseño más accesible y funcional, logrando que la aplicación se perciba como amigable, atractiva y útil. Además, el hecho de que varias de las sugerencias de los usuarios coincidieran con funcionalidades ya planificadas es una señal positiva de que el equipo está alineado con las expectativas de los usuarios. Esta iteración ha establecido una buena base para avanzar en el desarrollo del producto en las próximas fases del proyecto.
 
 ### Artefactos principales
 
