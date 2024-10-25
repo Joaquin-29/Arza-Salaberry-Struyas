@@ -23,8 +23,6 @@
 
 ## Planificación de la iteración
 
-<font color="red">_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_</font>
-
 ### Artefactos principales
 
 ### Sprint planning
