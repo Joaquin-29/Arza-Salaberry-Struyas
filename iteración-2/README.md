@@ -13,8 +13,6 @@
 
 ## Definición del marco de trabajo
 
-<font color="red"> _[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_ </font>
-
 ### Artefactos principales
 
 - Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
@@ -70,7 +68,7 @@ En azure las historias con prioridad alta equivalen a un 3, las de media a un 2 
 #### Uso de métricas relevantes para la planificación como la velocidad y productividad
 
 La velocidad del equipo que planificamos para esta iteración es de 24 puntos de historia.
-La velocidad real al final de la iteración fue de [TODO] puntos de historia.
+La velocidad real al final de la iteración fue de 24 puntos de historia.
 
 ## Seguimiento de la iteración
 
@@ -121,8 +119,6 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos con posibles soluciones
-
-<font color="red">_[Existen diferentes propuestas de solución para entregar valor y resolver el problema identificado implementado a través de prototipos. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_</font>
 
 ### Artefactos principales
 
@@ -223,14 +219,13 @@ Ajustes Finales: Varios de los comentarios de los usuarios coincidieron con func
   - Clasificación de Notificaciones
     - Organizar las notificaciones en categorías (ej. “Confirmaciones”, “Promociones”) para que el usuario pueda personalizar qué recibir.
 
-- Conclusion final
-  - La iteración 2 fue exitosa en la creación y validación de prototipos en Figma que abordan las necesidades principales de los usuarios en las que seleccionamos para trabajar. Los ajustes realizados tras la recolección de feedback nos permitiran adaptar el producto a un diseño más accesible y funcional, logrando que la aplicación se perciba como amigable, atractiva y útil. Además, el hecho de que varias de las sugerencias de los usuarios coincidieran con funcionalidades ya planificadas es una señal positiva de que el equipo está alineado con las expectativas de los usuarios. Esta iteración ha establecido una buena base para avanzar en el desarrollo del producto en las próximas fases del proyecto.
 
-### Artefactos principales
+### Minutas de sprint review
 
-[TODO]
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+- Conclusiones sobre el trabajo realizado
+    - La iteración 2 fue exitosa en la creación y validación de prototipos en Figma que abordan las necesidades principales de los usuarios en las que seleccionamos para trabajar. Los ajustes realizados tras la recolección de feedback nos permitiran adaptar el producto a un diseño más accesible y funcional, logrando que la aplicación se perciba como amigable, atractiva y útil. Además, el hecho de que varias de las sugerencias de los usuarios coincidieran con funcionalidades ya planificadas es una señal positiva de que el equipo está alineado con las expectativas de los usuarios. Esta iteración ha establecido una buena base para avanzar en el desarrollo del producto en las próximas fases del proyecto.
+
+### Minutas de la retrospectiva
+Realizamos una reunión en Discord para revisar cómo fue realizada la iteración 2, agregamos a la retrospectiva de azure tarjetas con comentarios que tuvimos de la iteración 2.
+
+![img.png](img.png)
