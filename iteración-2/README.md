@@ -104,7 +104,10 @@ Faltando 3 días para finalizar la iteración, el burndown chart es el siguiente
 ![img_3.png](img_3.png)
 
 Al final de la iteración, el burndown chart es el siguiente:
-[TODO]
+![img_15.png](img_15.png)
+
+Comenzando en el dia que se realizo la planificación de la iteración, el burndown chart es el siguiente:
+![img_14.png](img_14.png)
 
 ## Inspección y adaptación del proceso
 
@@ -129,31 +132,44 @@ Construimos prototipos de la aplicación en la página de Figma.
 - [Prototipo de la aplicación](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=0-1&node-type=canvas&t=dNNhscARrB787mUV-0)
 
 [Prototipo de login](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=0-1)
+
 ![img_4.png](img_4.png)
 
 [Prototipo de logout](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-2)
+
 ![img_5.png](img_5.png)
 
 [Prototipo de editar usuario](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-3)
+
 ![img_11.png](img_11.png)
 
 [Prototipo de perfil de usuario](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-4)
+
 ![img_12.png](img_12.png)
 
 [Prototipo de crear restaurante](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-59)
+
 ![img_6.png](img_6.png)
 
 [Prototipo de perfil cliente - favoritos - reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=67-725)
+
 ![img_10.png](img_10.png)
 
 [Prototipo de perfil gerenciador](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=136-897)
+
 ![img_8.png](img_8.png)
 
 [Prototipo de solicitar reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-22748)
+
 ![img_7.png](img_7.png)
 
 [Prototipo de crear promociones](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=84-2492)
+
 ![img_9.png](img_9.png)
+
+[Prototipo de marcar restaurantes como favoritos](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=187-2137)
+
+![img_16.png](img_16.png)
 
 - Prototipos asociados como bocetos a las historias de usuario.
 
