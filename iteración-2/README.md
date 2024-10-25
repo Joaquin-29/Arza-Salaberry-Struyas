@@ -104,7 +104,10 @@ Faltando 3 días para finalizar la iteración, el burndown chart es el siguiente
 ![img_3.png](img_3.png)
 
 Al final de la iteración, el burndown chart es el siguiente:
-[TODO]
+![img_15.png](img_15.png)
+
+Comenzando en el dia que se realizo la planificación de la iteración, el burndown chart es el siguiente:
+![img_14.png](img_14.png)
 
 ## Inspección y adaptación del proceso
 
@@ -154,10 +157,14 @@ Construimos prototipos de la aplicación en la página de Figma.
 ![img_8.png](imagenes/perfilgerente.png)
 
 [Prototipo de solicitar reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-22748)
+
 ![img_7.png](img_7.png)
 
 [Prototipo de crear promociones](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=84-2492)
 ![img_9.png](imagenes/crearpromo.png)
+
+[Prototipo de marcar restaurantes como favoritos](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=187-2137)
+![img_16.png](img_16.png)
 
 - Prototipos asociados como bocetos a las historias de usuario.
 
