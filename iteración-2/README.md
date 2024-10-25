@@ -126,34 +126,38 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 ### Prototipos interactivos para ser navegados
 
 Construimos prototipos de la aplicación en la página de Figma.
-- [Prototipo de la aplicación](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=0-1&node-type=canvas&t=dNNhscARrB787mUV-0)
+- [Proyecto en Figma de la aplicación](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-4&t=PvC4k7wwPJWg1mZg-1)
 
-[Prototipo de login](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=0-1)
-![img_4.png](img_4.png)
+- [Prototipo de la interfaz de usuario](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=165-1170&node-type=canvas&t=Rm3wx3O6vxyQp2H4-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A4&starting-point-node-id=165%3A1170)
 
-[Prototipo de logout](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-2)
-![img_5.png](img_5.png)
+### Login
+![Login](imagenes/login.png)
 
-[Prototipo de editar usuario](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-3)
-![img_11.png](img_11.png)
+### Logout
+![Logout](imagenes/sesion.png)
 
-[Prototipo de perfil de usuario](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-4)
-![img_12.png](img_12.png)
+### Registro
+![Registro](imagenes/registro.png)
 
-[Prototipo de crear restaurante](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-59)
-![img_6.png](img_6.png)
+### Pagina principal
+![Pagina principal](imagenes/principal.png)
 
-[Prototipo de perfil cliente - favoritos - reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=67-725)
-![img_10.png](img_10.png)
+### Perfil de usuario
+![Perfil usuario](imagenes/perfil1.png)
+![Perfil usuario 2](imagenes/perfil2.png)
+
+### Crear restaurante
+[Prototipo de crear restaurante]()
+![Crear restaurante]()
 
 [Prototipo de perfil gerenciador](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=136-897)
-![img_8.png](img_8.png)
+![img_8.png](imagenes/perfilgerente.png)
 
 [Prototipo de solicitar reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-22748)
 ![img_7.png](img_7.png)
 
 [Prototipo de crear promociones](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=84-2492)
-![img_9.png](img_9.png)
+![img_9.png](imagenes/crearpromo.png)
 
 - Prototipos asociados como bocetos a las historias de usuario.
 
