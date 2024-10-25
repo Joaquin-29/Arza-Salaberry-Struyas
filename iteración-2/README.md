@@ -34,7 +34,7 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 Se hizo una reunión en Discord para planificar la iteración 2. Se definieron las tareas a realizar en la iteración, cada integrante
 eligio una tarea por la cual comenzar. Se decidió que en esta iteración se realizarán aproximadamente la mitad de las historias de usuario
 medidas en puntos de historia, tomando en cuenta la prioridad de las mismas.
-![img.png](img.png)
+![img.png](imagenes/discord.png)
 
 ### Objetivos de la iteración
 
@@ -45,10 +45,10 @@ Iniciar sesión, registrar restaurantes y crear reservas.
 ### Sprint backlog con historias de usuarios y tareas asociadas
 
 El sprint backlog para la iteración 2 es el siguiente:
-![img_1.png](img_1.png)
+![img_1.png](imagenes/backlog.png)
 
 Se definieron las tareas a realizar:
-![img_2.png](img_2.png)
+![img_2.png](imagenes/tareas.png)
 
 
 #### Planificación de acuerdo a la capacidad del equipo
@@ -65,7 +65,7 @@ Para priorizar las historias de usuario las clasificamos en 3 categorías:
 
 En azure las historias con prioridad alta equivalen a un 3, las de media a un 2 y las de baja a un 1.
 
-![img_13.png](img_13.png)
+![Historias de usuario](imagenes/historias-usuario.png)
 
 #### Uso de métricas relevantes para la planificación como la velocidad y productividad
 
@@ -101,13 +101,13 @@ Struyas
 ### Seguimiento visual de la iteración con burndown y/o burnup charts
 
 Faltando 3 días para finalizar la iteración, el burndown chart es el siguiente:
-![img_3.png](img_3.png)
+![img_3.png](imagenes/burndown1.png)
 
 Al final de la iteración, el burndown chart es el siguiente:
-![img_15.png](img_15.png)
+![img_15.png](imagenes/burndown2.png)
 
 Comenzando en el dia que se realizo la planificación de la iteración, el burndown chart es el siguiente:
-![img_14.png](img_14.png)
+![img_14.png](imagenes/burndown3.png)
 
 ## Inspección y adaptación del proceso
 
@@ -157,14 +157,13 @@ Construimos prototipos de la aplicación en la página de Figma.
 ![img_8.png](imagenes/perfil-gerente.png)
 
 [Prototipo de solicitar reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-22748)
-
-![img_7.png](img_7.png)
+![img_7.png](imagenes/reserva.png)
 
 [Prototipo de crear promociones](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=84-2492)
 ![img_9.png](imagenes/crear-promo.png)
 
 [Prototipo de marcar restaurantes como favoritos](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=187-2137)
-![img_16.png](img_16.png)
+![img_16.png](imagenes/favoritos.png)
 
 - Prototipos asociados como bocetos a las historias de usuario.
 
