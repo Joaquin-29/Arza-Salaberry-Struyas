@@ -223,7 +223,7 @@ Ajustes Finales: Varios de los comentarios de los usuarios coincidieron con func
   - Clasificación de Notificaciones
     - Organizar las notificaciones en categorías (ej. “Confirmaciones”, “Promociones”) para que el usuario pueda personalizar qué recibir.
 
-- Conclusiones
+- Conclusion final
   - La iteración 2 fue exitosa en la creación y validación de prototipos en Figma que abordan las necesidades principales de los usuarios en las que seleccionamos para trabajar. Los ajustes realizados tras la recolección de feedback nos permitiran adaptar el producto a un diseño más accesible y funcional, logrando que la aplicación se perciba como amigable, atractiva y útil. Además, el hecho de que varias de las sugerencias de los usuarios coincidieran con funcionalidades ya planificadas es una señal positiva de que el equipo está alineado con las expectativas de los usuarios. Esta iteración ha establecido una buena base para avanzar en el desarrollo del producto en las próximas fases del proyecto.
 
 ### Artefactos principales
