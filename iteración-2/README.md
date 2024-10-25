@@ -144,16 +144,16 @@ Construimos prototipos de la aplicación en la página de Figma.
 ![Perfil usuario 2](imagenes/perfil2.png)
 
 ### Crear restaurante
-[Prototipo de crear restaurante](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=71-555&node-type=canvas&t=FBg1YP0YlTsJTXuT-1&scaling=min-zoom&content-scaling=fixed&page-id=24%3A59&starting-point-node-id=71%3A555)
+[Prototipo de crear restaurante](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=71-555&node-type=canvas&t=uH1JQX7GVWrwdPgo-1&scaling=min-zoom&content-scaling=fixed&page-id=24%3A59&starting-point-node-id=71%3A555)
 ![Crear restaurante](imagenes/registrar-restaurante.png)
 
-[Prototipo de perfil gerenciador](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=136-897)
+[Prototipo de perfil gerenciador](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=136-1002&node-type=canvas&t=Q2Uf3BmgGjuFnkgJ-1&scaling=min-zoom&content-scaling=fixed&page-id=136%3A897&starting-point-node-id=136%3A1002)
 ![img_8.png](imagenes/perfil-gerente.png)
 
-[Prototipo de solicitar reserva](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=24-22748)
+[Prototipo de solicitar reserva](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=71-857&node-type=canvas&t=gDbGEvnj7T6Itm1f-1&scaling=min-zoom&content-scaling=fixed&page-id=24%3A22748&starting-point-node-id=74%3A243)
 ![img_7.png](imagenes/reserva.png)
 
-[Prototipo de crear promociones](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=84-2492)
+[Prototipo de crear promociones](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=84-2732&node-type=canvas&t=RKiTwtAGUoGurhIx-1&scaling=min-zoom&content-scaling=fixed&page-id=84%3A2492)
 ![img_9.png](imagenes/crear-promo.png)
 
 [Prototipo de marcar restaurantes como favoritos](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=187-2137)
