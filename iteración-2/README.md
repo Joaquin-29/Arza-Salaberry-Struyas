@@ -206,13 +206,13 @@ Ajustes Finales: Varios de los comentarios de los usuarios coincidieron con func
 
 - Siguientes Pasos
   - Sistema de Recompensas
-  Implementar un sistema de puntos para premiar a usuarios frecuentes con descuentos y promociones. Evaluar una versión paga para beneficios adicionales.
+    - Implementar un sistema de puntos para premiar a usuarios frecuentes con descuentos y promociones. Evaluar una versión paga para beneficios adicionales.
 
   - Listas Personalizadas de Favoritos
     - Permitir a los usuarios crear listas de favoritos con categorías personalizadas (ej. “Para citas”, “Para amigos”) para facilitar el acceso.
 
   - Filtros de Búsqueda Avanzada
-    -Añadir filtros de búsqueda como “Abierto ahora”, “Al aire libre” y rango de precios, mejorando la precisión en la búsqueda de restaurantes.
+    - Añadir filtros de búsqueda como “Abierto ahora”, “Al aire libre” y rango de precios, mejorando la precisión en la búsqueda de restaurantes.
 
   - Personalización de Avatares
     - Expandir la selección de avatares y permitir la carga de imágenes desde redes sociales para una experiencia más personalizada.
