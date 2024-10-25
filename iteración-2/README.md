@@ -192,6 +192,39 @@ Preferencias: Salidas frecuentes a restaurantes con amigos y familiares
    Recuperación de Contraseña: Implementar la recuperación de contraseña con opciones populares, como SMS o correo electrónico.
    Clasificación de Notificaciones: Clasificar las notificaciones en categorías como “Confirmaciones” o “Promociones” para que el usuario pueda decidir qué tipo de notificaciones desea recibir.
 
+### Conclusiones
+
+#### Resultados Clave
+- Prototipos con Posibles Soluciones
+Actividades Realizadas: Se llevaron a cabo actividades de ideación y prototipado en Figma.
+Progreso: Los prototipos iniciales en Figma abarcaron funcionalidades clave como el login de usuario, registro, creación de perfiles y el proceso de reserva de restaurantes. Figma nos permitió crear un equipo para facilitar el trabajo colaborativo.
+Conclusión: Las propuestas de solución a través de los prototipos permitieron al equipo visualizar cómo las funcionalidades principales abordan las necesidades de los usuarios, estableciendo una base sólida para la validación con usuarios.
+
+- Inspección y Adaptación del Producto
+Validación con Usuarios: Se realizaron pruebas de usabilidad con un usuario objetivo para evaluar la facilidad de uso y la efectividad de la interfaz. Estas pruebas ayudaron a identificar áreas de a mejorar o modificar en nuestro proyecto.
+Ajustes Finales: Varios de los comentarios de los usuarios coincidieron con funcionalidades que el equipo ya había planificado. Esto confirma que el equipo está alineado con las expectativas y necesidades del usuario.
+
+- Siguientes Pasos
+Sistema de Recompensas
+Implementar un sistema de puntos para premiar a usuarios frecuentes con descuentos y promociones. Evaluar una versión paga para beneficios adicionales.
+
+Listas Personalizadas de Favoritos
+Permitir a los usuarios crear listas de favoritos con categorías personalizadas (ej. “Para citas”, “Para amigos”) para facilitar el acceso.
+
+Filtros de Búsqueda Avanzada
+Añadir filtros de búsqueda como “Abierto ahora”, “Al aire libre” y rango de precios, mejorando la precisión en la búsqueda de restaurantes.
+
+Personalización de Avatares
+Expandir la selección de avatares y permitir la carga de imágenes desde redes sociales para una experiencia más personalizada.
+
+Recuperación de Contraseña Mejorada
+Incorporar opciones de recuperación mediante SMS o correo electrónico, simplificando el proceso para los usuarios.
+
+Clasificación de Notificaciones
+Organizar las notificaciones en categorías (ej. “Confirmaciones”, “Promociones”) para que el usuario pueda personalizar qué recibir.
+
+- Conclusiones 
+La iteración 2 fue exitosa en la creación y validación de prototipos en Figma que abordan las necesidades principales de los usuarios en las que seleccionamos para trabajar. Los ajustes realizados tras la recolección de feedback nos permitiran adaptar el producto a un diseño más accesible y funcional, logrando que la aplicación se perciba como amigable, atractiva y útil. Además, el hecho de que varias de las sugerencias de los usuarios coincidieran con funcionalidades ya planificadas es una señal positiva de que el equipo está alineado con las expectativas de los usuarios. Esta iteración ha establecido una buena base para avanzar en el desarrollo del producto en las próximas fases del proyecto.
 
 ### Artefactos principales
 
