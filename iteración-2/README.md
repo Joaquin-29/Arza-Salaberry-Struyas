@@ -169,7 +169,29 @@ Construimos prototipos de la aplicación en la página de Figma.
 
 ## Inspección y adaptación del producto
 
-<font color="red"> _[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_ </font>
+### Feedback de usuarios
+#### Perfil del Usuario
+Edad: 21 años
+Preferencias: Salidas frecuentes a restaurantes con amigos y familiares
+#### Comentarios sobre la Interfaz de Usuario
+1. Apariencia y Estética:
+   La interfaz es limpia y funcional, pero podría beneficiarse de un diseño visualmente más atractivo, con colores y gráficos mas modernos, para así captar mejor al público juvenil.
+   Aunque los textos son claros, la organización y el espaciado de algunos elementos, como el perfil del usuario, podrían mejorarse. Recomendación: ajustar o agrandar los márgenes y el espaciado, y explorar fuentes más modernas.
+2. Usabilidad:
+   La navegación es intuitiva, con íconos bastante representativos.
+   La opción de registro con Google u otras plataformas es conveniente.
+   La interfaz no siempre proporciona una confirmación visual al registrar cambios o indicar qué se puede hacer. Sugerencia: añadir mensajes de confirmación breves, como “Agregado a favoritos” o modificar la coloración de los botones. En el caso de modificar o crear usuarios, por ejemplo, se podría cambiar el color de los botones cuando se pueda completar la acción.
+   Aunque es útil, el mapa interactivo de reservas puede ser pequeño y difícil de usar. Sugerencia: resaltar las zonas seleccionadas y hacer más visibles los filtros (tipo de comida, precio, valoraciones) para facilitar la búsqueda.
+3. Funcionalidades Clave:
+   El historial de reservas y restaurantes favoritos es accesible, aunque se podrían organizar en pestañas, secciones o incluso en un calendario específico.
+4. Sugerencias para Implementaciones Futuras:
+   Sistema de Recompensas: Agregar un sistema de puntos, recompensas o versión paga, que brinde a usuarios frecuentes descuentos o promociones exclusivas.
+   Favoritos y Listas Personalizadas: Permitir la creación de listas de favoritos con categorías, como “Para citas” o “Para ir con amigos”, para facilitar el acceso.
+   Filtros de Búsqueda: Incluir opciones de búsqueda avanzada como “Abierto ahora” o “Al aire libre” para una búsqueda más precisa.
+   Personalización de Avatares: La selección de avatares es buena, pero una opción para personalizarlos o integrarlos desde redes sociales aumentaría la personalización, algo importante para usuarios jóvenes.
+   Recuperación de Contraseña: Implementar la recuperación de contraseña con opciones populares, como SMS o correo electrónico.
+   Clasificación de Notificaciones: Clasificar las notificaciones en categorías como “Confirmaciones” o “Promociones” para que el usuario pueda decidir qué tipo de notificaciones desea recibir.
+
 
 ### Artefactos principales
 
