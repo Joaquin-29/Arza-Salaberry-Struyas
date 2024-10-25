@@ -129,7 +129,7 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 ### Prototipos interactivos para ser navegados
 
 Construimos prototipos de la aplicación en la página de Figma.
-- [Proyecto en Figma de la aplicación](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-4&t=PvC4k7wwPJWg1mZg-1)
+- [Proyecto en Figma](https://www.figma.com/design/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=5-4&t=PvC4k7wwPJWg1mZg-1)
 
 - [Prototipo de la interfaz de usuario](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=165-1170&node-type=canvas&t=Rm3wx3O6vxyQp2H4-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A4&starting-point-node-id=165%3A1170)
 
