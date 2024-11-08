@@ -80,3 +80,7 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
   - Descripción de las tareas propuestas a los usuarios finales.
   - Cobertura obtenida de validación de los usuarios de la aplicación.
 - Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+
+
+### links (luego lo muevo a donde va)
+Prototipo perfil administrador: https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=321-1029&node-type=canvas&t=Zf440yrWScs6Hac8-1&scaling=min-zoom&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646
