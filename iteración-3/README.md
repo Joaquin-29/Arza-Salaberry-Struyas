@@ -31,7 +31,9 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 - Minuta de la sprint planning con su agenda, actividades y resultados.
 - Objetivos de la iteración.
-- Sprint backlog con historias de usuarios y tareas asociadas.
+#### Sprint backlog
+![sprint backlog](imagenes/sprint-backlog.png)
+
 - Planificación de acuerdo a la capacidad del equipo.
 - Técnicas de priorización y estimación utilizadas.
 - Uso de métricas relevantes para la planificación como la velocidad y productividad.
@@ -66,8 +68,10 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 
 ### Artefactos principales
 
-- Prototipos interactivos para ser navegados.
-- Prototipos asociados como bocetos a las historias de usuario.
+#### Prototipos interactivos para ser navegados.
+- [Prototipo perfil administrador](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=321-1029&node-type=canvas&t=Zf440yrWScs6Hac8-1&scaling=min-zoom&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646)
+- [Prototipo perfil cliente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=165-1170&node-type=canvas&t=4706DZGmePyfHITl-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A4&starting-point-node-id=165%3A1170)
+- [Prototipo perfil gerente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=136-1002&node-type=canvas&t=PX9Tm9qnh0T4Hlfn-1&scaling=min-zoom&content-scaling=fixed&page-id=136%3A897&starting-point-node-id=136%3A1002)
 
 ## Inspección y adaptación del producto
 
@@ -83,4 +87,4 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
 
 
 ### links (luego lo muevo a donde va)
-Prototipo perfil administrador: https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=321-1029&node-type=canvas&t=Zf440yrWScs6Hac8-1&scaling=min-zoom&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646
+
