@@ -19,7 +19,7 @@
 - **SCRUM Master:** Martín Salaberry
   - Facilita las ceremonias SCRUM, elimina obstáculos y asegura que se respeten las buenas prácticas del marco.
 - **Development Team:** Joaquín Struyas, Martin Salaberry, Magdalena Arza
-  - Encargado de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
+  - Encargados de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
 
 **Eventos SCRUM**
 - **Sprint Planning:** Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias y sus story points.
