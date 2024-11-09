@@ -109,10 +109,7 @@ El burndown chart al final de la iteración 3 es el siguiente:
 
 
 # TO DO
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-- Planificación y seguimiento de las acciones de mejora.
-
-# Construir y validar posibles soluciones del MVP a través de prototipos
+- Planificación y seguimiento de las acciones de mejora **borrar??**.
 
 #### Prototipos interactivos para ser navegados
 - [Prototipo perfil administrador](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=321-1029&node-type=canvas&t=Zf440yrWScs6Hac8-1&scaling=min-zoom&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646)
