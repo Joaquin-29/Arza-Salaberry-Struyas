@@ -50,7 +50,21 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Sprint planning
+Se realizó una reunión en Discord para planificar la iteración 3. Se definieron las tareas a realizar en la iteración, cada integrante
+eligio una tarea por la cual comenzar. En esta iteración se realizarán aproximadamente la mitad de las historias de usuario
+medidas en puntos de historia que quedaron de la iteración anterior.
+
+### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
+
+Arza
+- 
+
+Salaberry
+- 
+
+Struyas
+- 
 
 ### Artefactos principales
 
