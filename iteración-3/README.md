@@ -86,10 +86,10 @@ La velocidad real al final de la iteración fue de 23 puntos de historia.
 ### Sprint backlog con historias de usuarios y tareas asociadas
 
 El sprint backlog para la iteración 3 es el siguiente:
-![img.png](img.png)
+![backlog](imagenes/backlog.jpg)
 
 Se definieron las tareas a realizar:
-![img_1.png](img_1.png)
+![tareas](imagenes/tareas.jpg)
 
 ### Artefactos principales
 
@@ -104,7 +104,7 @@ Se definieron las tareas a realizar:
 
 ### Seguimiento visual de la iteración con burndown y/o burnup charts
 El burndown chart al mediodía del último día es el siguiente:
-![img_2.png](img_2.png)
+![burndown](imagenes/burndown.jpg)
 
 El burndown chart al final de la iteración 3 es el siguiente:
 [TODO]
@@ -170,4 +170,3 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
 
 
 ### links (luego lo muevo a donde va)
-
