@@ -145,7 +145,14 @@ Al finalizar la reunion hemos identificado la posibilidad de hacer la interfaz d
 
 ### Sprint retrospective 
 
-# TO DO
+**Aspectos positivos**
+- Todos participamos activamente en las reuniones y tuvimos buena comunicación.
+- Se completaron todas las historias de usuario planificadas para esta iteración.
+- Los usuarios finales proporcionaron feedback positivo y mejoras sobre las nuevas funcionalidades implementadas.
+
+**Aspectos a mejorar**
+- Hubo dificultades para coordinarnos el trabajo en Figma, lo que resultó en partes de prototipos repetidos.
+- La documentación podría estar un poco mas completa
 
 #### Evidencia de los usability testing con usuarios finales
 
