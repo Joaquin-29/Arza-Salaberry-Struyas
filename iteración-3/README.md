@@ -89,7 +89,7 @@ El sprint backlog para la iteración 3 es el siguiente:
 ![backlog](imagenes/backlog.jpg)
 
 Se definieron las tareas a realizar:
-![tareas](imagenes/tareas.jpg)
+![tareas](imagenes/tareas.png)
 
 ### Artefactos principales
 
