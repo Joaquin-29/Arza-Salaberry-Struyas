@@ -24,7 +24,7 @@
 **Eventos SCRUM**
 - **Sprint Planning:** Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias y sus story points.
 - **Daily Scrum:** Se llevaron a cabo principalmente de manera presencial en la facultad. Sin embargo, al ser un sprint relativamente corto, no fue necesario realizar daily meetings todos los días, y en algunos casos se implementaron mediante breves llamadas a través de Discord.
-- **Sprint Review:** Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
+- **Sprint Review:** Se realizó al final del sprint para presentar el incremento del producto a los interesados clave.
 - **Sprint Retrospective:** Esta ceremonia se llevó a cabo para discutir mejoras en los procesos y reflexionar sobre lo que funcionó y lo que puede optimizarse en los siguientes sprints.
 
 **Definition of Ready:**
@@ -40,23 +40,8 @@
 
 ## Planificación de la iteración
 
-_[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener las historias de usuario priorizadas y las tareas planificadas basadas en la capacidad y velocidad disponible del equipo.]_
-
-### Artefactos principales
-
-- Minuta de la sprint planning con su agenda, actividades y resultados.
-- Objetivos de la iteración.
-- Sprint backlog
-- Planificación de acuerdo a la capacidad del equipo.
-- Técnicas de priorización y estimación utilizadas.
-- Uso de métricas relevantes para la planificación como la velocidad y productividad.
-
-## Seguimiento de la iteración
-
 ### Sprint planning
-Se realizó una reunión en Discord para planificar la iteración 3. Se definieron las tareas a realizar en la iteración, cada integrante
-eligio una tarea por la cual comenzar. En esta iteración se realizarán aproximadamente la mitad de las historias de usuario
-medidas en puntos de historia que quedaron de la iteración anterior.
+Se realizó una reunión en Discord para planificar la iteración 3. Se definieron las tareas a realizar en la iteración, cada integrante eligio una tarea por la cual comenzar. En esta iteración se realizarán aproximadamente la mitad de las historias de usuario medidas en puntos de historia que quedaron de la iteración anterior.
 
 ### Objetivos de la iteración
 
@@ -65,12 +50,12 @@ Se espera que al final de la iteración el cliente pueda tener un prototipo func
 Iniciar sesión, registrar restaurantes y crear reservas (Iteración 2).
 Gestión de reseñas, configuración de notificaciones, administración de gerentes y algunas caracterísitcas adicionales. (Iteración 3)
 
-#### Planificación de acuerdo a la capacidad del equipo
+### Planificación de acuerdo a la capacidad del equipo
 
-Trabajaremos con la modalidad impulsada por el [TODO], [TODO]-driven, teniendo en cuenta la velocidad del equipo en la iteración anterior, 24.
+Trabajaremos con la modalidad impulsada por el **[TODO], [TODO]** -driven, teniendo en cuenta la velocidad del equipo en la iteración anterior, 24.
 En esta iteración decidimos trabajar en 12 historias de usuario que suman 23 puntos de historia.
 
-#### Técnicas de priorización y estimación utilizadas
+### Técnicas de priorización y estimación utilizadas
 
 Para priorizar las historias de usuario las clasificamos en 3 categorías:
 - Alta prioridad
@@ -79,9 +64,9 @@ Para priorizar las historias de usuario las clasificamos en 3 categorías:
 
 En azure las historias con prioridad alta equivalen a un 3, las de media a un 2 y las de baja a un 1.
 
-#### Uso de métricas relevantes para la planificación como la velocidad y productividad
+### Uso de métricas relevantes para la planificación como la velocidad y productividad
 
-La velocidad del equipo que planificamos para esta iteración es de 23 puntos de historia.
+La velocidad del equipo que planificamos para esta iteración es de 24 puntos de historia.
 La velocidad real al final de la iteración fue de 23 puntos de historia.
 
 ### Sprint backlog con historias de usuarios y tareas asociadas
@@ -108,7 +93,7 @@ El burndown chart al mediodía del último día es el siguiente:
 ![burndown](imagenes/burndown.jpg)
 
 El burndown chart al final de la iteración 3 es el siguiente:
-[TODO]
+# [TODO]
 
 ### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
 
@@ -120,10 +105,9 @@ Salaberry
 
 Struyas
 - 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
-### Artefactos principales
 
+# TO DO
 - Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
 - Planificación y seguimiento de las acciones de mejora.
 
@@ -159,14 +143,14 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 
 ## Inspección y adaptación del producto
 
-_[Existe evidencia de instancias de inspección y validación del producto con usuarios y la recolección de su feedback con ajustes finales a los prototipos.]_
-
-### Artefactos principales
-
 #### Sprint review
 Para esta iteración, el objetivo fue completar las historias restantes del backlog, enfocándonos principalmente en las tareas que puede realizar el administrador y el gerente, se puede ver mas detalladamente en la imagen del sprint backlog anterior.
 Cada historia ha sido probada y validada, cumpliendo los criterios de aceptación definidos al inicio del sprint.
-Una vez finalizado el desarrollo de las funcionalidades, hemos identificado la posibilidad de hacer la interfaz de usuario más atractiva y amigable que la actual, para mejorar la experiencia del usuario final.
+Al finalizar la reunion hemos identificado la posibilidad de hacer la interfaz de usuario más atractiva y amigable que la actual, para mejorar la experiencia del usuario final.
+
+### Sprint retrospective 
+
+# TO DO
 
 #### Evidencia de los usability testing con usuarios finales.
   - Descripción de las tareas propuestas a los usuarios finales.
