@@ -13,7 +13,19 @@
 
 ## Definición del marco de trabajo
 
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración. Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
+**Roles y responsabilidades del equipo**
+- Product Owner: Magdalena Arza
+  - Prioriza el Product Backlog y asegura que el equipo trabaje en las historias de mayor valor para el proyecto.
+- SCRUM Master: Martín Salaberry
+  - Facilita las ceremonias SCRUM, elimina obstáculos y asegura que se respeten las buenas prácticas del marco.
+- Development Team: Joaquín Struyas
+  - Encargado de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
+
+**Eventos SCRUM**
+- Sprint Planning: Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias y sus story points.
+- Daily Scrum: Se llevaron a cabo principalmente de manera presencial en la facultad. Sin embargo, al ser un sprint relativamente corto, no fue necesario realizar daily meetings todos los días, y en algunos casos se implementaron mediante breves llamadas a través de Discord.
+- Sprint Review: Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
+- Sprint Retrospective: Esta ceremonia se llevó a cabo para discutir mejoras en los procesos y reflexionar sobre lo que funcionó y lo que puede optimizarse en los siguientes sprints.
 
 ### Artefactos principales
 
@@ -40,12 +52,49 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 ## Seguimiento de la iteración
 
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
+### Sprint planning
+Se realizó una reunión en Discord para planificar la iteración 3. Se definieron las tareas a realizar en la iteración, cada integrante
+eligio una tarea por la cual comenzar. En esta iteración se realizarán aproximadamente la mitad de las historias de usuario
+medidas en puntos de historia que quedaron de la iteración anterior.
+
+### Objetivos de la iteración
+
+El objetivo de la iteración 3 es terminar en la construcción de la aplicación, implementando las historias de usuario que quedaron en la iteración anterior.
+Se espera que al final de la iteración el cliente pueda tener un prototipo funcional de la aplicación, con las funcionalidades principales implementadas.
+Iniciar sesión, registrar restaurantes y crear reservas (Iteración 2).
+Gestión de reseñas, configuración de notificaciones, administración de gerentes y algunas caracterísitcas adicionales. (Iteración 3)
+
+#### Planificación de acuerdo a la capacidad del equipo
+
+Trabajaremos con la modalidad impulsada por el [TODO], [TODO]-driven, teniendo en cuenta la velocidad del equipo en la iteración anterior, 24.
+En esta iteración decidimos trabajar en 12 historias de usuario que suman 23 puntos de historia.
+
+#### Técnicas de priorización y estimación utilizadas
+
+Para priorizar las historias de usuario las clasificamos en 3 categorías:
+- Alta prioridad
+- Media prioridad
+- Baja prioridad
+
+En azure las historias con prioridad alta equivalen a un 3, las de media a un 2 y las de baja a un 1.
+
+#### Uso de métricas relevantes para la planificación como la velocidad y productividad
+
+La velocidad del equipo que planificamos para esta iteración es de 23 puntos de historia.
+La velocidad real al final de la iteración fue de 23 puntos de historia.
+
+### Sprint backlog con historias de usuarios y tareas asociadas
+
+El sprint backlog para la iteración 3 es el siguiente:
+![img.png](img.png)
+
+Se definieron las tareas a realizar:
+![img_1.png](img_1.png)
 
 ### Artefactos principales
 
 - Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-  - ¿Que logramos hacer?
+  - ¿Qué logramos hacer?
   - ¿Qué planificamos hacer?
   - ¿Qué impedimentos tenemos?
 - Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
@@ -53,6 +102,23 @@ _[Existe evidencia sobre el registro de actividades y horas de cada integrante d
 
 ## Inspección y adaptación del proceso
 
+### Seguimiento visual de la iteración con burndown y/o burnup charts
+El burndown chart al mediodía del último día es el siguiente:
+![img_2.png](img_2.png)
+
+El burndown chart al final de la iteración 3 es el siguiente:
+[TODO]
+
+### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
+
+Arza
+- 
+
+Salaberry
+- 
+
+Struyas
+- 
 _[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
 ### Artefactos principales
