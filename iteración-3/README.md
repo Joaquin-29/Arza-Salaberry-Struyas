@@ -52,7 +52,7 @@ Gestión de reseñas, configuración de notificaciones, administración de geren
 
 ### Planificación de acuerdo a la capacidad del equipo
 
-Trabajaremos con la modalidad impulsada por el **[TODO], [TODO]** -driven, teniendo en cuenta la velocidad del equipo en la iteración anterior, 24.
+Trabajaremos con la modalidad impulsada por la velocidad, velocity-driven, teniendo en cuenta la velocidad del equipo en la iteración anterior, 24.
 En esta iteración decidimos trabajar en 12 historias de usuario que suman 23 puntos de historia.
 
 ### Técnicas de priorización y estimación utilizadas
@@ -79,11 +79,13 @@ Se definieron las tareas a realizar:
 
 ### Artefactos principales
 
-# TO DO
+# Daily meeting
 - Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
   - ¿Qué logramos hacer?
   - ¿Qué planificamos hacer?
   - ¿Qué impedimentos tenemos?
+
+Nos comunicamos por Whatsapp para coordinar las tareas y ver que estabamos haciendo e íbamos a hacer cada uno.
 
 ## Inspección y adaptación del proceso
 
@@ -92,7 +94,7 @@ El burndown chart al mediodía del último día es el siguiente:
 ![burndown](imagenes/burndown.jpg)
 
 El burndown chart al final de la iteración 3 es el siguiente:
-# [TODO]
+![burndown2](imagenes/burndown2.jpg)
 
 ### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
 
@@ -108,8 +110,9 @@ El burndown chart al final de la iteración 3 es el siguiente:
 - Documentación 1 hora
 
 
-# TO DO
-- Planificación y seguimiento de las acciones de mejora **borrar??**.
+### Planificación y seguimiento de las acciones de mejora.
+
+En esta iteración no tuvimos complicaciones, por lo que no fue necesario realizar acciones de mejora.
 
 #### Prototipos interactivos para ser navegados
 - [Prototipo perfil administrador](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=321-1029&node-type=canvas&t=Zf440yrWScs6Hac8-1&scaling=min-zoom&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646)
