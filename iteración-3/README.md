@@ -14,26 +14,29 @@
 ## Definición del marco de trabajo
 
 **Roles y responsabilidades del equipo**
-- Product Owner: Magdalena Arza
+- **Product Owner:** Magdalena Arza
   - Prioriza el Product Backlog y asegura que el equipo trabaje en las historias de mayor valor para el proyecto.
-- SCRUM Master: Martín Salaberry
+- **SCRUM Master:** Martín Salaberry
   - Facilita las ceremonias SCRUM, elimina obstáculos y asegura que se respeten las buenas prácticas del marco.
-- Development Team: Joaquín Struyas
+- **Development Team:** Joaquín Struyas
   - Encargado de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
 
 **Eventos SCRUM**
-- Sprint Planning: Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias y sus story points.
-- Daily Scrum: Se llevaron a cabo principalmente de manera presencial en la facultad. Sin embargo, al ser un sprint relativamente corto, no fue necesario realizar daily meetings todos los días, y en algunos casos se implementaron mediante breves llamadas a través de Discord.
-- Sprint Review: Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
-- Sprint Retrospective: Esta ceremonia se llevó a cabo para discutir mejoras en los procesos y reflexionar sobre lo que funcionó y lo que puede optimizarse en los siguientes sprints.
+- **Sprint Planning:** Se realizó de manera presencial en la facultad, donde se definieron los objetivos del sprint y las tareas más prioritarias y sus story points.
+- **Daily Scrum:** Se llevaron a cabo principalmente de manera presencial en la facultad. Sin embargo, al ser un sprint relativamente corto, no fue necesario realizar daily meetings todos los días, y en algunos casos se implementaron mediante breves llamadas a través de Discord.
+- **Sprint Review:** Se realizó al final de cada sprint para presentar el incremento del producto a los interesados clave.
+- **Sprint Retrospective:** Esta ceremonia se llevó a cabo para discutir mejoras en los procesos y reflexionar sobre lo que funcionó y lo que puede optimizarse en los siguientes sprints.
 
-### Artefactos principales
+**Definition of Ready:**
+**1.** La historia cuenta con especificaciones visuales y de diseño claras, incluyendo cualquier guideline de estilo.
+**2.** Cada historia tiene criterios de aceptación específicos que describen cómo debe funcionar y visualizarse el componente o flujo en Figma.
+**3.** El Product Owner priorizó la historia como esencial para el sprint actual.
 
-- Definición del calendario de eventos con justificación de su adaptación al contexto de la iteración.
-- Roles y responsabilidades definidos para cada integrante del equipo.
-- Políticas de trabajo del equipo:
-  - Definition of Done.
-  - Definition of Ready.
+**Definition of Done:**
+**1.** La historia cumple con todos los criterios de aceptación definidos al inicio.
+**2.** El diseño visual y de interacción ha sido completado en Figma, con todos los elementos y componentes alineados a las guidelines establecidas.
+**3.** La historia ha sido integrada en el prototipo de Figma de manera que el flujo se pueda navegar de forma intuitiva y sin errores.
+**4.** El Product Owner ha revisado y aprobado el diseño final en Figma.
 
 ## Planificación de la iteración
 
