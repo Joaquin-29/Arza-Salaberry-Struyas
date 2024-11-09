@@ -18,7 +18,7 @@
   - Prioriza el Product Backlog y asegura que el equipo trabaje en las historias de mayor valor para el proyecto.
 - **SCRUM Master:** Martín Salaberry
   - Facilita las ceremonias SCRUM, elimina obstáculos y asegura que se respeten las buenas prácticas del marco.
-- **Development Team:** Joaquín Struyas
+- **Development Team:** Joaquín Struyas, Martin Salaberry, Magdalena Arza
   - Encargado de desarrollar las historias de usuario planificadas en cada sprint, garantizando que el incremento del producto esté listo al finalizar la iteración.
 
 **Eventos SCRUM**
@@ -147,7 +147,27 @@ Al finalizar la reunion hemos identificado la posibilidad de hacer la interfaz d
 
 # TO DO
 
-#### Evidencia de los usability testing con usuarios finales.
-  - Descripción de las tareas propuestas a los usuarios finales.
-  - Cobertura obtenida de validación de los usuarios de la aplicación.
-  - Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
+#### Evidencia de los usability testing con usuarios finales
+
+- **Descripción de las tareas propuestas a los usuarios finales:**
+  1. Iniciar sesión en la aplicación.
+  2. Registrar un nuevo restaurante.
+  3. Crear una reserva para un cliente.
+  4. Gestionar reseñas de clientes.
+  5. Configurar notificaciones.
+  6. Administrar perfiles de gerentes.
+
+- **Cobertura obtenida de validación de los usuarios de la aplicación:**
+  - Se realizaron pruebas con 2 usuarios finales
+  - Cada usuario completó todas las tareas propuestas.
+
+- **Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio:**
+  - **Alta prioridad:**
+    - Mejorar la interfaz de usuario para la gestión de reseñas, ya que varios usuarios encontraron confuso el proceso actual.
+    - Agregar una opción para filtrar notificaciones por tipo y fecha.
+  - **Media prioridad:**
+    - Simplificar el proceso de registro de nuevos gerentes, reduciendo el número de campos obligatorios.
+    - Crear mensajes de error claros durante la creación de reservas.
+  - **Baja prioridad:**
+    - Añadir tutoriales interactivos para nuevos usuarios.
+    - Permitir la personalización del color de las paginas de la aplicación.
