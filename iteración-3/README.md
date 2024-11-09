@@ -134,10 +134,27 @@ _[Existen diferentes propuestas de solución para entregar valor y resolver el p
 
 ### Artefactos principales
 
-#### Prototipos interactivos para ser navegados.
+#### Prototipos interactivos para ser navegados
 - [Prototipo perfil administrador](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=321-1029&node-type=canvas&t=Zf440yrWScs6Hac8-1&scaling=min-zoom&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646)
+
+![admin-1](imagenes/admin-1.png)
+![admin-2](imagenes/admin-2.png)
+![admin-3](imagenes/admin-3.png)
+![admin-4](imagenes/admin-4.png)
+![admin-5](imagenes/admin-5.png)
+
 - [Prototipo perfil cliente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=165-1170&node-type=canvas&t=4706DZGmePyfHITl-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A4&starting-point-node-id=165%3A1170)
+
+![cliente-1](imagenes/cliente-1.png)
+![cliente-2](imagenes/cliente-2.png)
+![cliente-3](imagenes/cliente-3.png)
+![cliente-4](imagenes/cliente-4.png)
+
 - [Prototipo perfil gerente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=136-1002&node-type=canvas&t=PX9Tm9qnh0T4Hlfn-1&scaling=min-zoom&content-scaling=fixed&page-id=136%3A897&starting-point-node-id=136%3A1002)
+
+![gerente-1](imagenes/gerente-1.png)
+![gerente-2](imagenes/gerente-2.png)
+![gerente-3](imagenes/gerente-3.png)
 
 ## Inspección y adaptación del producto
 
