@@ -43,9 +43,7 @@ _[Sprint Backlog para cumplir con el objetivo de la iteración. Debe contener la
 
 - Minuta de la sprint planning con su agenda, actividades y resultados.
 - Objetivos de la iteración.
-#### Sprint backlog
-![sprint backlog](imagenes/sprint-backlog.png)
-
+- Sprint backlog
 - Planificación de acuerdo a la capacidad del equipo.
 - Técnicas de priorización y estimación utilizadas.
 - Uso de métricas relevantes para la planificación como la velocidad y productividad.
@@ -86,10 +84,10 @@ La velocidad real al final de la iteración fue de 23 puntos de historia.
 ### Sprint backlog con historias de usuarios y tareas asociadas
 
 El sprint backlog para la iteración 3 es el siguiente:
-![backlog](imagenes/backlog.jpg)
+![backlog](imagenes/sprint-backlog.png)
 
 Se definieron las tareas a realizar:
-![tareas](imagenes/tareas.jpg)
+![tareas](imagenes/tareas.png)
 
 ### Artefactos principales
 
@@ -162,11 +160,12 @@ _[Existe evidencia de instancias de inspección y validación del producto con u
 
 ### Artefactos principales
 
-- Minutas de sprint review.
-- Evidencia de los usability testing con usuarios finales.
+#### Sprint review
+Para esta iteración, el objetivo fue completar las historias restantes del backlog, enfocándonos principalmente en las tareas que puede realizar el administrador y el gerente, se puede ver mas detalladamente en la imagen del sprint backlog anterior.
+Cada historia ha sido probada y validada, cumpliendo los criterios de aceptación definidos al inicio del sprint.
+Una vez finalizado el desarrollo de las funcionalidades, hemos identificado la posibilidad de hacer la interfaz de usuario más atractiva y amigable que la actual, para mejorar la experiencia del usuario final.
+
+#### Evidencia de los usability testing con usuarios finales.
   - Descripción de las tareas propuestas a los usuarios finales.
   - Cobertura obtenida de validación de los usuarios de la aplicación.
-- Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
-
-
-### links (luego lo muevo a donde va)
+  - Feedback recibido de los usuarios finales con la priorización de las propuestas de cambio.
