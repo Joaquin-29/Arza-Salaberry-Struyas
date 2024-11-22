@@ -8,9 +8,9 @@
 - [Construir y validar posibles soluciones del MVP a través de prototipos.](#construir-y-validar-posibles-soluciones-del-mvp-a-través-de-prototipos)
   - [Prototipos finales](#prototipos-finales)
 
-_[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas
+_<span style="color:red">[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas
 sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de
-markdown en el propio repositorio de github.]
+markdown en el propio repositorio de github.]</span>
 
 # Informe académico
 
@@ -21,23 +21,41 @@ Los clientes podrán ver las recomendaciones de restaurantes cerca de su ubicaci
 Los gerentes de restaurantes podrán gestionar las reservas y las mesas disponibles.
 
 ## Resumen de los resultados
-[TODO]
+
+Se completaron todas las funcionalidades prioritarias para los perfiles de cliente, gerente y administrador, destacando:
+- Login, registro y edición de usuarios.
+- Creación y cancelación de reservas.
+- Gestión de notificaciones y restaurantes.
+- Configuración de promociones y respuesta a comentarios para gerentes.
+
+#### Prototipos en Figma:
+Se desarrollaron prototipos interactivos que simulan flujos clave de la aplicación, desde el registro hasta la reserva y gestión de restaurantes. Estos prototipos fueron revisados y validados con usuarios finales, identificando oportunidades de mejora en la estética y usabilidad.
+
+#### Validación y ajustes:
+Las pruebas de usabilidad destacaron la claridad en la navegación, pero también identificaron áreas para optimizar, como:
+- Hacer la interfaz más moderna y atractiva.
+- Implementar filtros avanzados en la búsqueda de restaurantes.
+- Mejorar los mensajes de confirmación visual y la gestión de notificaciones.
+
+#### Resultados finales:
+Cumplimos con los objetivos de cada iteración, logrando una velocidad promedio de 24 puntos de historia por sprint.
+Se establecieron bases sólidas para continuar con el desarrollo del producto, priorizando funcionalidades como un sistema de recompensas y personalización avanzada.
 
 ## Reflexiones sobre las prácticas de ingeniería de software ágil
 Utilizamos el marco de trabajo SCRUM para desarrollar el prototipo de una aplicación de restaurantes, siguiendo roles, eventos y artefactos definidos.
 
-### Adaptación de roles y eventos:
+#### Adaptación de roles y eventos:
 Los roles de Product Owner, Scrum Master y Development Team estuvieron bien definidos, con responsabilidades claras que facilitaron la organización y ejecución de tareas.
 Las ceremonias SCRUM fueron adecuadas para el ritmo y complejidad del proyecto. Las reuniones se realizaron algunas presencialmente y otras mediante Discord, lo que permitió flexibilidad y una buena colaboración del equipo.
 
-### Gestión del trabajo y uso de herramientas:
+#### Gestión del trabajo y uso de herramientas:
 Azure DevOps fue esencial para el seguimiento del progreso, principalmente el uso del product backlog y el sprint backlog y también las burndown charts que permitieron una visualización clara del desempeño en cada iteración.
 La priorización mediante puntos de historia y categorías ayudó a enfocar los esfuerzos en tareas críticas.
 
-### Retrospectiva:
+#### Retrospectiva:
 Las retrospectivas proporcionaron un espacio valioso para reflexionar sobre el proceso y aplicar ajustes. Por ejemplo, se identificaron problemas de coordinación en el uso de Figma, lo que impulsó una revisión para evitar duplicidades en los prototipos.
 
-### Incorporación de feedback del usuario:
+#### Incorporación de feedback del usuario:
 Los comentarios de usuarios finales fueron incorporados para ajustar la interfaz y las funcionalidades del prototipo, alineándolo mejor con las expectativas de los usuarios.
 
 # Gestión de la iteración
@@ -84,7 +102,6 @@ Seguimos el calendario planteado originalmente, respetando las fechas finales de
 
 ## Planificación de la iteración
 
-### Artefactos principales
 
 #### Minuta de la sprint planning con su agenda, actividades y resultados.
 Como resultado del sprint planning obtuvimos los objetivos de la iteración. 
@@ -99,7 +116,7 @@ Por lo tanto, no planificamos en base a la capacidad del equipo ni utilizamos el
 ## Seguimiento de la iteración
 
 ### Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-
+<span style="color:red">[TODO]
 ### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
 
 ### Iteracion 1
@@ -161,7 +178,7 @@ No hay seguimiento ya que no definimos tareas ni historias de usuario, tampoco u
 
 ## Inspección y adaptación del proceso
 
-_[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+_<span style="color:red">[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
 ### Artefactos principales
 
@@ -172,7 +189,7 @@ _[Existe evidencia sobre la inspección del proceso con aprendizajes principales
 
 ## Prototipos finales
 
-_[Se evidencian los prototipos finales con las validaciones de los usuarios. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+_<span style="color:red">[Se evidencian los prototipos finales con las validaciones de los usuarios. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
 
 
 ### Artefactos principales
@@ -185,4 +202,4 @@ _[Se evidencian los prototipos finales con las validaciones de los usuarios. Los
 ## Prototipos asociados como bocetos a las historias de usuario. [TODO]
 
 ## Lista de mejoras sugeridas de las validaciones con usuarios finales [TODO]
-  - Se explicita que mejoras fueron implementadas en los prototipos y cuáles quedaron fuera del alcance del proyecto.
+  - <span style="color:red">Se explicita que mejoras fueron implementadas en los prototipos y cuáles quedaron fuera del alcance del proyecto.
