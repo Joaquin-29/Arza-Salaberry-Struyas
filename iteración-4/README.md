@@ -170,7 +170,10 @@ _[Se evidencian los prototipos finales con las validaciones de los usuarios. Los
 
 ### Artefactos principales
 
-## Prototipos interactivos finales con el feedback de las validaciones. [TODO]
+## Prototipos interactivos finales con el feedback de las validaciones.
+[Prototipo perfil administrador](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=287-2646&node-type=canvas&t=IEOOjdqoqMzFfxcY-1&scaling=scale-down&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646)
+[Prototipo perfil cliente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=165-1170&node-type=canvas&t=ZMpFgfFfSGATHKbQ-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A4&starting-point-node-id=165%3A1170&show-proto-sidebar=1)
+[Prototipo perfil gerente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=494-2010&node-type=canvas&t=jsyroM8cRIr85dXH-1&scaling=scale-down&content-scaling=fixed&page-id=136%3A897&starting-point-node-id=494%3A2010)
 
 ## Prototipos asociados como bocetos a las historias de usuario. [TODO]
 
