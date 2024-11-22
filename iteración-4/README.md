@@ -24,14 +24,25 @@ Los gerentes de restaurantes podrán gestionar las reservas y las mesas disponib
 [TODO]
 
 ## Reflexiones sobre las prácticas de ingeniería de software ágil
-[TODO]
+Utilizamos el marco de trabajo SCRUM para desarrollar el prototipo de una aplicación de restaurantes, siguiendo roles, eventos y artefactos definidos.
+
+### Adaptación de roles y eventos:
+Los roles de Product Owner, Scrum Master y Development Team estuvieron bien definidos, con responsabilidades claras que facilitaron la organización y ejecución de tareas.
+Las ceremonias SCRUM fueron adecuadas para el ritmo y complejidad del proyecto. Las reuniones se realizaron algunas presencialmente y otras mediante Discord, lo que permitió flexibilidad y una buena colaboración del equipo.
+
+### Gestión del trabajo y uso de herramientas:
+Azure DevOps fue esencial para el seguimiento del progreso, principalmente el uso del product backlog y el sprint backlog y también las burndown charts que permitieron una visualización clara del desempeño en cada iteración.
+La priorización mediante puntos de historia y categorías ayudó a enfocar los esfuerzos en tareas críticas.
+
+### Retrospectiva:
+Las retrospectivas proporcionaron un espacio valioso para reflexionar sobre el proceso y aplicar ajustes. Por ejemplo, se identificaron problemas de coordinación en el uso de Figma, lo que impulsó una revisión para evitar duplicidades en los prototipos.
+
+### Incorporación de feedback del usuario:
+Los comentarios de usuarios finales fueron incorporados para ajustar la interfaz y las funcionalidades del prototipo, alineándolo mejor con las expectativas de los usuarios.
 
 # Gestión de la iteración
 
 ## Definición del marco de trabajo
-
-_[Definición del marco de trabajo SCRUM con los acuerdos principales del equipo y evidencia de sus prácticas aplicadas en la iteración.
-Deben estar los roles definidos para cada integrante del equipo y la justificación de la adaptación del marco de trabajo al contexto de la iteración.]_
 
 ### Artefactos principales
 **Eventos SCRUM**
@@ -86,10 +97,6 @@ Por lo tanto, no planificamos en base a la capacidad del equipo ni utilizamos el
 
 
 ## Seguimiento de la iteración
-
-_[Existe evidencia sobre el registro de actividades y horas de cada integrante del equipo con el seguimiento general de cada iteración del proyecto sobre lo planificado inicialmente.]_
-
-### Artefactos principales
 
 ### Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
 
