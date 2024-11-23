@@ -8,10 +8,6 @@
 - [Construir y validar posibles soluciones del MVP a través de prototipos.](#construir-y-validar-posibles-soluciones-del-mvp-a-través-de-prototipos)
   - [Prototipos finales](#prototipos-finales)
 
-_<span style="color:red">[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas
-sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de
-markdown en el propio repositorio de github.]</span>
-
 # Informe académico
 
 ## Descripción del proyecto
