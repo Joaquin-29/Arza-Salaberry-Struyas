@@ -212,5 +212,29 @@ Las imagenes del prototipo son las mismas que la de la iteración 3 a excepcion 
 
 ## Prototipos asociados como bocetos a las historias de usuario. <span style="color:red">[TODO]
 
-## Lista de mejoras sugeridas de las validaciones con usuarios finales <span style="color:red">[TODO]
-  - <span style="color:red">Se explicita que mejoras fueron implementadas en los prototipos y cuáles quedaron fuera del alcance del proyecto.
+## Lista de mejoras sugeridas de las validaciones con usuarios finales
+
+### Mejoras implementadas en los prototipos
+
+1. Confirmacion de acciones:
+- Se añadieron mensajes visuales en los prototipos para confirmar acciones clave, como “Reserva confirmada” y “Añadido a favoritos”.
+2. Filtros de busqueda:
+- Se implementaron filtros básicos como tipo de cocina y rango de precios en el prototipo de la interfaz de búsqueda de restaurantes.
+3. Gestion de notificaciones:
+- En el prototipo se incluyó una sección para que los usuarios puedan habilitar o deshabilitar notificaciones específicas, como promociones o confirmaciones de reservas.
+4. Diseño y estética:
+- Se ajustaron los colores, el espaciado y la tipografía para modernizar la apariencia visual del prototipo.
+5. Historial y Favoritos Organizados:
+- Los prototipos muestran el historial de reservas y los restaurantes favoritos en pestañas separadas, mejorando la organización de la información.
+
+### Mejoras fuera del alcance del proyecto
+
+1. Avatares personalizados:
+- Aunque se ampliaron las opciones de selección de avatares, la integración con redes sociales para personalización no se incluyó debido a restricciones de tiempo y alcance.
+2. Tutoriales
+- No se implementaron tutoriales interactivos, aunque se considera la posibilidad de incluirlos en fases futuras del proyecto.
+3. Personalización avanzada:
+- La opción de personalizar colores y temas no fue desarrollada en los prototipos actuales, ya que fue considerada como de menor prioridad.
+4. Mapas Interactivos Mejorados:
+- Aunque se incluyó la funcionalidad de ver la ubicación de los restaurantes en un mapa, no se implementaron filtros avanzados ni rutas de navegación.
+
