@@ -190,8 +190,10 @@ No hay seguimiento ya que no definimos tareas ni historias de usuario, tampoco u
 _<span style="color:red">[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
 
-<span style="color:red"> ## Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-<span style="color:red"> ## Planificación y seguimiento de las acciones de mejora.
+## Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
+<span style="color:red">[TODO]
+## Planificación y seguimiento de las acciones de mejora.
+<span style="color:red">[TODO]
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
@@ -208,7 +210,7 @@ Las imagenes del prototipo son las mismas que la de la iteración 3 a excepcion 
 [Prototipo perfil cliente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=165-1170&node-type=canvas&t=ZMpFgfFfSGATHKbQ-1&scaling=scale-down&content-scaling=fixed&page-id=5%3A4&starting-point-node-id=165%3A1170&show-proto-sidebar=1)
 [Prototipo perfil gerente](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=494-2010&node-type=canvas&t=jsyroM8cRIr85dXH-1&scaling=scale-down&content-scaling=fixed&page-id=136%3A897&starting-point-node-id=494%3A2010)
 
-## Prototipos asociados como bocetos a las historias de usuario. [TODO]
+## Prototipos asociados como bocetos a las historias de usuario. <span style="color:red">[TODO]
 
-## Lista de mejoras sugeridas de las validaciones con usuarios finales [TODO]
+## Lista de mejoras sugeridas de las validaciones con usuarios finales <span style="color:red">[TODO]
   - <span style="color:red">Se explicita que mejoras fueron implementadas en los prototipos y cuáles quedaron fuera del alcance del proyecto.

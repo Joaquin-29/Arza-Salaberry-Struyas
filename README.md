@@ -41,18 +41,18 @@ Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo l
 
 # Mejoras y ajustes principales a los entregables de cada iteración
 
-_[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
+_<span style="color:red">[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
 
 # Reflexiones y aprendizajes finales de los resultados del proyecto
 
 ## Informe académico
 
-_[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de markdown en el propio repositorio de github.]_
+_<span style="color:red">[Existe la elaboración de un informe académico que resume los resultados y reflexiona sobre las lecciones aprendidas sobre las prácticas de ingeniería de software ágil. El informe académico deberá ser implementado como un archivo de markdown en el propio repositorio de github.]_
 
-### Artefactos principales
-
-- Informe académico resumiendo resultados principales del proyecto.
-- Reflexiones y aprendizajes del proyecto.
+## Informe académico resumiendo resultados principales del proyecto.
+<span style="color:red">[TODO]
+## Reflexiones y aprendizajes del proyecto.
+<span style="color:red">[TODO]
 
 ## Video demo
 
