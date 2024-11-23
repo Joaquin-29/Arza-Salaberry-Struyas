@@ -193,10 +193,9 @@ No hay seguimiento ya que no definimos tareas ni historias de usuario, tampoco u
 
 _<span style="color:red">[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
-### Artefactos principales (borrar)
 
-<span style="color:red">- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados. [TODO]
-<span style="color:red">- Planificación y seguimiento de las acciones de mejora.
+<span style="color:red"> ## Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
+<span style="color:red"> ## Planificación y seguimiento de las acciones de mejora.
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
