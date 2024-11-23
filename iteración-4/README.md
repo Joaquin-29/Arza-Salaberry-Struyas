@@ -187,14 +187,26 @@ No hay seguimiento ya que no definimos tareas ni historias de usuario, tampoco u
 
 ## Inspección y adaptación del proceso
 
-_<span style="color:red">[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
+Durante cada iteración, se realizó una revisión del proceso mediante las retrospectivas para identificar áreas de mejora. Por ejemplo:
 
+- Evaluar el progreso usando burndown charts y el cumplimiento de los objetivos de las iteraciones.
+- Reflexionar sobre la efectividad de las herramientas utilizadas, como Figma y Azure DevOps.
+- Revisar el cumplimiento de la Definition of Done para las historias de usuario completadas.
+
+#### Aprendizajes principales
+La flexibilidad en la frecuencia de las Daily Scrums permitió un uso más eficiente del tiempo, es decir no las realizamos diariamente sino cuando creiamos que era necesario organizarnos correctamente.
+El uso combinado de Azure DevOps y Figma mejoró la colaboración, pero la falta de revisión temprana causó duplicidades en los prototipos como hablamos en iteraciones anteriores.
+Integrar feedback de los usuarios al final de cada iteración ayudó a mejorar el producto.
+
+#### Acciones de mejora implementadas
+- Implementar un paso adicional de revisión para los prototipos en equipo, previo al Sprint Review.
+- Usar etiquetas en Azure DevOps para categorizar tareas según prioridad y estado.
 
 ## Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
 Llevamos a cabo una reunión en Discord para reflexionar sobre las prácticas de ingeniería de software ágil aplicadas en el proyecto. Durante la llamada, discutimos y puntuamos los principales beneficios observados, así como las áreas que requerían ajustes. La reflexión la complementamos con el material teórico del curso, lo que permitió analizar nuestras prácticas desde una perspectiva más completa.
 
 ## Planificación y seguimiento de las acciones de mejora.
-En esta iteración no tuvimos complicaciones debido a su caracter reflectivo, por lo que no fue necesario realizar acciones de mejora.
+En esta iteración no tuvimos complicaciones debido a que principalmente su caracter es reflectivo, por lo que no fue necesario realizar acciones de mejora.
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
