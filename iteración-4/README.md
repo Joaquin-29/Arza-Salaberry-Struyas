@@ -191,9 +191,10 @@ _<span style="color:red">[Existe evidencia sobre la inspección del proceso con 
 
 
 ## Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados.
-<span style="color:red">[TODO]
+Llevamos a cabo una reunión en Discord para reflexionar sobre las prácticas de ingeniería de software ágil aplicadas en el proyecto. Durante la llamada, discutimos y puntuamos los principales beneficios observados, así como las áreas que requerían ajustes. La reflexión la complementamos con el material teórico del curso, lo que permitió analizar nuestras prácticas desde una perspectiva más completa.
+
 ## Planificación y seguimiento de las acciones de mejora.
-<span style="color:red">[TODO]
+En esta iteración no tuvimos complicaciones debido a su caracter reflectivo, por lo que no fue necesario realizar acciones de mejora.
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
