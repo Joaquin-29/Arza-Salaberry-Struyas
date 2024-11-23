@@ -128,7 +128,7 @@ La reunión duró aproximadamente 30 minutos
 
 ### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
 
-### Iteracion 1
+### Iteración 1
 **Equipo** 
 - Historias de usuario y sprint backlog: 2 horas 
 - Sprint retrospective: 15 min
@@ -143,7 +143,7 @@ La reunión duró aproximadamente 30 minutos
 - Epicas: 1 hora
 
 
-### Iteracion 2
+### Iteración 2
 **Arza**
 - 22/10 : 1 hora
 - 24/10 : 3 horas
@@ -157,7 +157,7 @@ La reunión duró aproximadamente 30 minutos
 - 23/10 : 2 horas
 - 24/10 : 1 hora
 
-### Iteracion 3
+### Iteración 3
 **Arza**
 - Historias de usuario del gerente 2 horas
 - Documentación 2 horas
@@ -169,7 +169,7 @@ La reunión duró aproximadamente 30 minutos
 - Historias de usuario del administrador 3 horas
 - Documentación 1 hora
 
-### Iteracion 4
+### Iteración 4
   **Arza**
 - Video presentación 2 horas
 - Documentación 1 hora
@@ -198,7 +198,7 @@ _<span style="color:red">[Existe evidencia sobre la inspección del proceso con 
 ## Prototipos finales
 
 Las imagenes del prototipo son las mismas que la de la iteración 3 a excepcion de unas nuevas páginas en el cliente y un arreglo en las notificaciones debido a un error de consistencia con el resto de la aplicación.
-[Imagenes de la documentación de la iteracion 3](../iteración-3/README.md#título-en-archivo2)
+[Imagenes de la documentación de la Iteración 3](../iteración-3/README.md#título-en-archivo2)
 
 ![cliente](imagenes/cliente1.png)
 ![notificación](imagenes/notif.png)
