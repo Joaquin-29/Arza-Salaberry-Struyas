@@ -116,7 +116,6 @@ Por lo tanto, no planificamos en base a la capacidad del equipo ni utilizamos el
 ## Seguimiento de la iteración
 
 ### Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-<span style="color:red">[TODO]</span>
 Fecha: 21/11/2024
 Hora: 15:00
 
@@ -126,13 +125,9 @@ Hora: 15:00
 **Joaquín Struyas:** Explicará las funcionalidades del perfil del administrador, como la creación de restaurantes y registro de gerentes.
 
 #### Errores y partes faltantes del prototipo:
-Ajustar los márgenes y espaciado en las pantallas del perfil del gerente.
-Corregir los colores de los botones para que sean consistentes en toda la aplicación.
-Añadir una confirmación visual al realizar acciones como agregar favoritos o cancelar reservas.
-Incorporar una pantalla faltante para la gestión de comentarios por parte del administrador.
+Revisando el prototipo en la reunión, vimos que había errores en la interfaz, como problemas de flujo o errores de visualización, por lo que nos dividimos los prototipos para corregir estos problemas. Más específicamente, Martín se encargó del prototipo del cliente, Magdalena del gerente y Joaquín del administrador.
 
-
-La reunion duró aproximadamente 1 hora
+La reunión duró aproximadamente 30 minutos
 
 
 ### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
@@ -198,19 +193,20 @@ No hay seguimiento ya que no definimos tareas ni historias de usuario, tampoco u
 
 _<span style="color:red">[Existe evidencia sobre la inspección del proceso con aprendizajes principales y acciones de mejora implementadas durante el desarrollo del proyecto.]_
 
-### Artefactos principales
+### Artefactos principales (borrar)
 
-- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados. [TODO]
-- Planificación y seguimiento de las acciones de mejora.
+<span style="color:red">- Minuta de la retrospectiva con la dinámica utilizada y sus principales resultados. [TODO]
+<span style="color:red">- Planificación y seguimiento de las acciones de mejora.
 
 # Construir y validar posibles soluciones del MVP a través de prototipos
 
 ## Prototipos finales
 
-_<span style="color:red">[Se evidencian los prototipos finales con las validaciones de los usuarios. Los prototipos deberán ser exportados en algún formato de imagen (como png o jpg) a efectos de poder ser visualizados fácilmente dentro del propio repo de github.]_
+Las imagenes del prototipo son las mismas que la de la iteración 3 a excepcion de unas nuevas páginas en el cliente y un arreglo en las notificaciones debido a un error de consistencia con el resto de la aplicación.
+[Imagenes de la documentación de la iteracion 3](../iteración-3/README.md#título-en-archivo2)
 
-
-### Artefactos principales
+![cliente](imagenes/cliente1.png)
+![notificación](imagenes/notif.png)
 
 ## Prototipos interactivos finales con el feedback de las validaciones.
 [Prototipo perfil administrador](https://www.figma.com/proto/BYvhnvacIuyWrmaI2aCwkn/Obligatorio-ISA?node-id=287-2646&node-type=canvas&t=IEOOjdqoqMzFfxcY-1&scaling=scale-down&content-scaling=fixed&page-id=287%3A2605&starting-point-node-id=287%3A2646)
