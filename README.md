@@ -70,25 +70,44 @@ En la cuarta y última iteración, el equipo se enfocó en reflexionar sobre el 
 #### Lecciones Aprendidas
 
 - Importancia de la Comunicación Constante
-  Las ceremonias ágiles, como las reuniones diarias (Daily Scrum) y las retrospectivas, desempeñaron un papel crucial en la sincronización del equipo. Esta práctica evitó conflictos de asignación de tareas y duplicación de esfuerzos, permitiendo al equipo trabajar de manera coordinada y eficaz. Además, la identificación temprana de obstáculos y la colaboración para resolverlos mejoraron significativamente la productividad y minimizaron retrasos.
+
+Las ceremonias ágiles, como las reuniones diarias (Daily Scrum) y las retrospectivas, desempeñaron un papel crucial en la sincronización del equipo. Esta práctica evitó conflictos de asignación de tareas y duplicación de esfuerzos, permitiendo al equipo trabajar de manera coordinada y eficaz. Además, la identificación temprana de obstáculos y la colaboración para resolverlos mejoraron significativamente la productividad y minimizaron retrasos.
+
 - Adaptabilidad y Respuesta al Cambio
-  Una de las mayores ventajas del desarrollo ágil es la capacidad de adaptarse a requisitos en constante evolución. En nuestro caso, el feedback de los usuarios finales fue incorporado en iteraciones posteriores, ajustando funcionalidades y mejorando la experiencia del usuario sin afectar negativamente los objetivos generales. La estructura iterativa del trabajo garantizó que estos ajustes se realizaran de manera controlada, manteniendo la calidad del producto.
+
+Una de las mayores ventajas del desarrollo ágil es la capacidad de adaptarse a requisitos en constante evolución. En nuestro caso, el feedback de los usuarios finales fue incorporado en iteraciones posteriores, ajustando funcionalidades y mejorando la experiencia del usuario sin afectar negativamente los objetivos generales. La estructura iterativa del trabajo garantizó que estos ajustes se realizaran de manera controlada, manteniendo la calidad del producto.
+
 - Claridad en la Definición de Objetivos
-  El uso de criterios como la Definition of Ready (DoR) y la Definition of Done (DoD) proporcionó un marco estándar para garantizar que las historias de usuario estuvieran listas para ser desarrolladas y que las entregas finales cumplieran con los estándares de calidad esperados. Esto redujo malentendidos, aseguró consistencia en las entregas y aumentaría la satisfacción del cliente.
+
+El uso de criterios como la Definition of Ready (DoR) y la Definition of Done (DoD) proporcionó un marco estándar para garantizar que las historias de usuario estuvieran listas para ser desarrolladas y que las entregas finales cumplieran con los estándares de calidad esperados. Esto redujo malentendidos, aseguró consistencia en las entregas y aumentaría la satisfacción del cliente.
+
 - Enfoque en el Valor del Producto
-  La priorización del backlog según el valor que aporta cada funcionalidad permitió al equipo trabajar en aquellas características que generaban mayor impacto para los usuarios. Esto aseguró un enfoque centrado en el cliente, optimizando los recursos del equipo al evitar tareas de bajo impacto durante las primeras iteraciones.
+
+La priorización del backlog según el valor que aporta cada funcionalidad permitió al equipo trabajar en aquellas características que generaban mayor impacto para los usuarios. Esto aseguró un enfoque centrado en el cliente, optimizando los recursos del equipo al evitar tareas de bajo impacto durante las primeras iteraciones.
+
 - Gestión del Tiempo y Compromiso
-  Una planificación realista basada en la velocidad del equipo fue clave para mantener un flujo de trabajo sostenible. Estimar correctamente las tareas ayudó a gestionar las expectativas y evitó la acumulación de deuda técnica. Por igual, esta práctica también nos demostró la importancia de refinar la planificación a medida que el equipo obtiene más experiencia y datos sobre su rendimiento.
+
+Una planificación realista basada en la velocidad del equipo fue clave para mantener un flujo de trabajo sostenible. Estimar correctamente las tareas ayudó a gestionar las expectativas y evitó la acumulación de deuda técnica. Por igual, esta práctica también nos demostró la importancia de refinar la planificación a medida que el equipo obtiene más experiencia y datos sobre su rendimiento.
+
 - Feedback Continuo y Mejora Incremental
-  Las retrospectivas al final de cada sprint fueron fundamentales para identificar áreas de mejora, tanto en aspectos técnicos como de procesos. Estas reuniones fomentaron una cultura de mejora continua, donde el equipo se centró en optimizar su forma de trabajar y en implementar acciones concretas para resolver los problemas identificados.
+
+Las retrospectivas al final de cada sprint fueron fundamentales para identificar áreas de mejora, tanto en aspectos técnicos como de procesos. Estas reuniones fomentaron una cultura de mejora continua, donde el equipo se centró en optimizar su forma de trabajar y en implementar acciones concretas para resolver los problemas identificados.
+
 - Equipo Autónomo y Multifuncional
-  Contar con un equipo capaz de asumir múltiples roles dentro del desarrollo permitió una gran flexibilidad y redujo los tiempos de espera para completar tareas. Esta multifuncionalidad fomentó la colaboración y permitió abordar los problemas con mayor rapidez, mejorando la eficiencia general.
+
+Contar con un equipo capaz de asumir múltiples roles dentro del desarrollo permitió una gran flexibilidad y redujo los tiempos de espera para completar tareas. Esta multifuncionalidad fomentó la colaboración y permitió abordar los problemas con mayor rapidez, mejorando la eficiencia general.
+
 - Iteraciones cortas y medibles
-  Trabajar con iteraciones cortas permitió evaluar el progreso regularmente y realizar ajustes antes de continuar. Este enfoque no solo mejoró la calidad del producto, sino que también retribuyó al equipo, al lograr entregas significativas al final de cada sprint.
+
+Trabajar con iteraciones cortas permitió evaluar el progreso regularmente y realizar ajustes antes de continuar. Este enfoque no solo mejoró la calidad del producto, sino que también retribuyó al equipo, al lograr entregas significativas al final de cada sprint.
+
 - Uso de herramientas de seguimiento
-  La utilización de herramientas como Azure DevOps fue esencial para mantener un registro detallado del progreso del proyecto. La visualización de los sprints, el backlog y las métricas de rendimiento permitieron al equipo tener una visión clara de su desempeño y tomar decisiones informadas para mejorar su trabajo.
+
+La utilización de herramientas como Azure DevOps fue esencial para mantener un registro detallado del progreso del proyecto. La visualización de los sprints, el backlog y las métricas de rendimiento permitieron al equipo tener una visión clara de su desempeño y tomar decisiones informadas para mejorar su trabajo.
+
 - Límites y Expectativas Claras
-  Definir claramente los alcances y objetivos del sprint evitó sobrecargas de trabajo. A su vez resaltó la importancia de reevaluar constantemente estos objetivos a medida que el proyecto avanzaba y surgían nuevas prioridades.
+
+Definir claramente los alcances y objetivos del sprint evitó sobrecargas de trabajo. A su vez resaltó la importancia de reevaluar constantemente estos objetivos a medida que el proyecto avanzaba y surgían nuevas prioridades.
 
 ## Video demo
 
