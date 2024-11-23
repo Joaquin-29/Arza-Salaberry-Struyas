@@ -41,7 +41,7 @@ Las siguientes carpetas deberán tener la entrega de cada iteración siguiendo l
 
 # Mejoras y ajustes principales a los entregables de cada iteración
 
-_<span style="color:red">[Con el desarrollo del proyecto se pueden ir encontrando mejoras a los entregables ya realizados de cada iteración. Enumerar en esta sección las principales mejoras realizadas posterior a cada entrega. Esto puede incluir la implementación de las sugerencias realizadas por los docentes durante el proyecto.]_
+[Mejoras Realizadas y sugeridas](./iteración-4/README.md#Mejoras-implementadas-en-los-prototipos)
 
 # Reflexiones y aprendizajes finales de los resultados del proyecto
 
