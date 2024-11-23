@@ -50,7 +50,7 @@ Las ceremonias SCRUM fueron adecuadas para el ritmo y complejidad del proyecto. 
 
 #### Gestión del trabajo y uso de herramientas:
 Azure DevOps fue esencial para el seguimiento del progreso, principalmente el uso del product backlog y el sprint backlog y también las burndown charts que permitieron una visualización clara del desempeño en cada iteración.
-La priorización mediante puntos de historia y categorías ayudó a enfocar los esfuerzos en tareas críticas.
+La priorización mediante puntos de historia y categorías ayudó a enfocar los esfuerzos en las tareas mas importantes.
 
 #### Retrospectiva:
 Las retrospectivas proporcionaron un espacio valioso para reflexionar sobre el proceso y aplicar ajustes. Por ejemplo, se identificaron problemas de coordinación en el uso de Figma, lo que impulsó una revisión para evitar duplicidades en los prototipos.
@@ -116,7 +116,25 @@ Por lo tanto, no planificamos en base a la capacidad del equipo ni utilizamos el
 ## Seguimiento de la iteración
 
 ### Minuta de daily scrum describiendo la coordinación del trabajo de cada integrante del equipo.
-<span style="color:red">[TODO]
+<span style="color:red">[TODO]</span>
+Fecha: 21/11/2024
+Hora: 15:00
+
+#### Organización para la grabación del video:
+**Magdalena Arza:** Explicará las funcionalidades relacionadas con el gerente y realizará la edición de los videos.
+**Martín Salaberry:** Presentará las características del perfil del cliente.
+**Joaquín Struyas:** Explicará las funcionalidades del perfil del administrador, como la creación de restaurantes y registro de gerentes.
+
+#### Errores y partes faltantes del prototipo:
+Ajustar los márgenes y espaciado en las pantallas del perfil del gerente.
+Corregir los colores de los botones para que sean consistentes en toda la aplicación.
+Añadir una confirmación visual al realizar acciones como agregar favoritos o cancelar reservas.
+Incorporar una pantalla faltante para la gestión de comentarios por parte del administrador.
+
+
+La reunion duró aproximadamente 1 hora
+
+
 ### Registro y reporte de horas de cada integrante del equipo con sus actividades principales.
 
 ### Iteracion 1
